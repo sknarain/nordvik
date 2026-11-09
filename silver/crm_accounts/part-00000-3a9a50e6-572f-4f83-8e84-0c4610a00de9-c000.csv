@@ -1,0 +1,18 @@
+account_id,account_name,country,account_owner,segment,erp_customer_ref,created_date,status
+ACC-0101,Nordhavn,NO,Elin Vik,Grocery retail,C10002,2018-02-20T00:00:00.000-05:00,Active
+ACC-0102,Nordhavn Retail,SE,Johan Ekström,Grocery retail,C10003,2019-01-10T00:00:00.000-05:00,Active
+ACC-0103,NordHavn Supermarkets DK,DK,Mads Kjær,Grocery retail,C10004,2020-05-11T00:00:00.000-04:00,Active
+ACC-0104,Nordhavn Retail Grp - FI,FI,Elin Vik,Grocery retail,C10006,2021-01-30T00:00:00.000-05:00,Active
+ACC-0105,Nordhavn Eesti OÜ,EE,Elin Vik,Grocery retail,C10006,2022-08-15T00:00:00.000-04:00,Active
+ACC-0110,Kaufring,DE,Stefan Brandl,Grocery retail,C10007,2019-10-01T00:00:00.000-04:00,Active
+ACC-0111,Kaufring Österreich,AT,Stefan Brandl,Grocery retail,C10008,2021-04-01T00:00:00.000-04:00,Active
+ACC-0120,Albion Fresh,UK,Hannah Cole,Grocery retail,C10009,2020-01-15T00:00:00.000-05:00,Active
+ACC-0130,Zielony Koszyk,PL,Anna Wójcik,Grocery retail,C10010,2021-08-01T00:00:00.000-04:00,Active
+ACC-0140,Hollander Supermarkten,NL,Sanne Visser,Grocery retail,C10011,2020-09-20T00:00:00.000-04:00,Active
+ACC-0150,Vltava Potraviny,CZ,Anna Wójcik,Grocery retail,C10012,2021-12-01T00:00:00.000-05:00,Active
+ACC-0160,Marché Plus,FR,Claire Dubois,Grocery retail,C10013,2022-04-11T00:00:00.000-04:00,Active
+ACC-0170,Coldline Distribution,SE,Johan Ekström,Distributor,C10014,2017-09-01T00:00:00.000-04:00,Active
+ACC-0171,FrostTek Service,DE,Julia Roth,Distributor,C10015,2018-07-01T00:00:00.000-04:00,Active
+ACC-0177,Nordhavn Sverige AB,SE,Linnea Sjöberg,Grocery retail,C10019,2024-05-28T00:00:00.000-04:00,Active
+ACC-0181,Kaufring Markt GmbH,DE,Julia Roth,Grocery retail,C10007,2025-02-03T00:00:00.000-05:00,Active
+ACC-0190,Nordhavn Marine,NO,Elin Vik,Marine / food processing,C10016,2021-03-01T00:00:00.000-05:00,Active

@@ -1,0 +1,779 @@
+order_id,order_date,billing_customer_id,ship_to_site_id,ship_to_name,country,currency,line_no,item_code,description,qty,unit_price,line_amount,status,requested_delivery
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,10,FD-1200,Fjord FD-1200 display case,7,6256.0,43792.0,Invoiced,2022-01-23
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,3,6992.0,20976.0,Invoiced,2022-01-23
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,30,FD-900,Fjord FD-900 display case,2,3864.0,7728.0,Invoiced,2022-01-23
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,40,GC-M,Glacier GC-M cold room,1,20240.0,20240.0,Invoiced,2022-01-23
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,50,PR-600,Polar PR-600 compressor rack,1,42320.0,42320.0,Invoiced,2022-01-23
+SO-24030,2021-09-17,C10011,ST-NL-1007,Hollander Utrecht,NL,EUR,60,SVC-INST,Installation and commissioning,1,16210.0,16210.0,Invoiced,2022-01-23
+SO-24018,2021-09-23,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,5,156400.0,782000.0,Invoiced,2022-01-16
+SO-24018,2021-09-23,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,20,GC-M,Glacier GC-M cold room,1,506000.0,506000.0,Invoiced,2022-01-16
+SO-24018,2021-09-23,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,30,PR-400,Polar PR-400 compressor rack,1,667000.0,667000.0,Invoiced,2022-01-16
+SO-24018,2021-09-23,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,40,SVC-INST,Installation and commissioning,1,234600.0,234600.0,Invoiced,2022-01-16
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,10,FD-1200,Fjord FD-1200 display case,6,5231.0,31386.0,Invoiced,2022-02-06
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,4,5846.0,23384.0,Invoiced,2022-02-06
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,30,FD-900,Fjord FD-900 display case,3,3231.0,9693.0,Invoiced,2022-02-06
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,40,GC-L,Glacier GC-L cold room,2,23846.0,47692.0,Invoiced,2022-02-06
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,50,PR-600,Polar PR-600 compressor rack,1,35385.0,35385.0,Invoiced,2022-02-06
+SO-24055,2021-10-01,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,60,SVC-INST,Installation and commissioning,1,17700.0,17700.0,Invoiced,2022-02-06
+SO-24034,2021-10-07,C10011,ST-NL-1035,Hollander Arnhem,NL,EUR,10,FD-900,Fjord FD-900 display case,3,3864.0,11592.0,Invoiced,2022-01-23
+SO-24034,2021-10-07,C10011,ST-NL-1035,Hollander Arnhem,NL,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2022-01-23
+SO-24034,2021-10-07,C10011,ST-NL-1035,Hollander Arnhem,NL,EUR,30,SVC-INST,Installation and commissioning,1,3380.0,3380.0,Invoiced,2022-01-23
+SO-24044,2021-10-15,C10014,ST-SE-1119,Eslövs Matbutik,SE,SEK,10,FD-900,Fjord FD-900 display case,3,36210.0,108630.0,Invoiced,2022-01-27
+SO-24044,2021-10-15,C10014,ST-SE-1119,Eslövs Matbutik,SE,SEK,20,GC-S,Glacier GC-S cold room,1,125000.0,125000.0,Invoiced,2022-01-27
+SO-24044,2021-10-15,C10014,ST-SE-1119,Eslövs Matbutik,SE,SEK,30,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2022-01-27
+SO-24044,2021-10-15,C10014,ST-SE-1119,Eslövs Matbutik,SE,SEK,40,SVC-INST,Installation and commissioning,1,46660.0,46660.0,Invoiced,2022-01-27
+SO-24066,2021-10-18,C10012,ST-CZ-1014,Vltava Praha West,CZ,CZK,10,FD-900,Fjord FD-900 display case,3,96600.0,289800.0,Invoiced,2022-02-19
+SO-24066,2021-10-18,C10012,ST-CZ-1014,Vltava Praha West,CZ,CZK,20,PR-250,Polar PR-250 compressor rack,1,414000.0,414000.0,Invoiced,2022-02-19
+SO-24066,2021-10-18,C10012,ST-CZ-1014,Vltava Praha West,CZ,CZK,30,SVC-INST,Installation and commissioning,1,84460.0,84460.0,Invoiced,2022-02-19
+SO-24070,2021-11-19,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,10,FD-1200,Fjord FD-1200 display case,5,6256.0,31280.0,Invoiced,2022-03-15
+SO-24070,2021-11-19,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,20,GC-S,Glacier GC-S cold room,1,13340.0,13340.0,Invoiced,2022-03-15
+SO-24070,2021-11-19,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,30,PR-400,Polar PR-400 compressor rack,1,26680.0,26680.0,Invoiced,2022-03-15
+SO-24070,2021-11-19,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,40,SVC-INST,Installation and commissioning,1,8560.0,8560.0,Invoiced,2022-03-15
+SO-24075,2022-01-26,C10009,ST-UK-1063,Albion Fresh Wakefield,UK,GBP,10,FD-1200,Fjord FD-1200 display case,4,5231.0,20924.0,Invoiced,2022-05-16
+SO-24075,2022-01-26,C10009,ST-UK-1063,Albion Fresh Wakefield,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,2,5846.0,11692.0,Invoiced,2022-05-16
+SO-24075,2022-01-26,C10009,ST-UK-1063,Albion Fresh Wakefield,UK,GBP,30,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2022-05-16
+SO-24075,2022-01-26,C10009,ST-UK-1063,Albion Fresh Wakefield,UK,GBP,40,PR-400,Polar PR-400 compressor rack,1,22308.0,22308.0,Invoiced,2022-05-16
+SO-24075,2022-01-26,C10009,ST-UK-1063,Albion Fresh Wakefield,UK,GBP,50,SVC-INST,Installation and commissioning,1,7930.0,7930.0,Invoiced,2022-05-16
+SO-24085,2022-02-11,C10014,ST-SE-1070,Nordhavn Nära Kungsbacka,SE,SEK,10,FD-900,Fjord FD-900 display case,4,36210.0,144840.0,Invoiced,2022-06-08
+SO-24085,2022-02-11,C10014,ST-SE-1070,Nordhavn Nära Kungsbacka,SE,SEK,20,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2022-06-08
+SO-24085,2022-02-11,C10014,ST-SE-1070,Nordhavn Nära Kungsbacka,SE,SEK,30,SVC-INST,Installation and commissioning,1,36000.0,36000.0,Invoiced,2022-06-08
+SO-24125,2022-03-17,C10008,ST-AT-1049,Kaufring Kufstein,AT,EUR,10,FD-1200,Fjord FD-1200 display case,6,5984.0,35904.0,Invoiced,2022-07-25
+SO-24125,2022-03-17,C10008,ST-AT-1049,Kaufring Kufstein,AT,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6688.0,13376.0,Invoiced,2022-07-25
+SO-24125,2022-03-17,C10008,ST-AT-1049,Kaufring Kufstein,AT,EUR,30,GC-M,Glacier GC-M cold room,1,19360.0,19360.0,Invoiced,2022-07-25
+SO-24125,2022-03-17,C10008,ST-AT-1049,Kaufring Kufstein,AT,EUR,40,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2022-07-25
+SO-24125,2022-03-17,C10008,ST-AT-1049,Kaufring Kufstein,AT,EUR,50,SVC-INST,Installation and commissioning,1,11300.0,11300.0,Invoiced,2022-07-25
+SO-24092,2022-03-24,C10002,ST-NO-1035,Nordhavn Express Oslo Nydalen,NO,NOK,10,FD-900,Fjord FD-900 display case,3,40050.0,120150.0,Invoiced,2022-07-14
+SO-24092,2022-03-24,C10002,ST-NO-1035,Nordhavn Express Oslo Nydalen,NO,NOK,20,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2022-07-14
+SO-24092,2022-03-24,C10002,ST-NO-1035,Nordhavn Express Oslo Nydalen,NO,NOK,30,PR-250,Polar PR-250 compressor rack,1,171630.0,171630.0,Invoiced,2022-07-14
+SO-24092,2022-03-24,C10002,ST-NO-1035,Nordhavn Express Oslo Nydalen,NO,NOK,40,SVC-INST,Installation and commissioning,1,51600.0,51600.0,Invoiced,2022-07-14
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,10,FD-1200,Fjord FD-1200 display case,8,5780.0,46240.0,Invoiced,2022-07-18
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,4,6460.0,25840.0,Invoiced,2022-07-18
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,30,FD-900,Fjord FD-900 display case,2,3570.0,7140.0,Invoiced,2022-07-18
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,40,GC-M,Glacier GC-M cold room,1,18700.0,18700.0,Invoiced,2022-07-18
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,50,PR-600,Polar PR-600 compressor rack,1,39100.0,39100.0,Invoiced,2022-07-18
+SO-24103,2022-04-15,C10005,ST-FI-1028,Nordhavn Mega Espoo Tapiola,FI,EUR,60,SVC-INST,Installation and commissioning,1,16440.0,16440.0,Invoiced,2022-07-18
+SO-24134,2022-04-20,C10010,ST-PL-1035,Zielony Koszyk Łódź,PL,PLN,10,FD-1200,Fjord FD-1200 display case,5,26850.0,134250.0,Invoiced,2022-07-30
+SO-24134,2022-04-20,C10010,ST-PL-1035,Zielony Koszyk Łódź,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,1,30010.0,30010.0,Invoiced,2022-07-30
+SO-24134,2022-04-20,C10010,ST-PL-1035,Zielony Koszyk Łódź,PL,PLN,30,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2022-07-30
+SO-24134,2022-04-20,C10010,ST-PL-1035,Zielony Koszyk Łódź,PL,PLN,40,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2022-07-30
+SO-24134,2022-04-20,C10010,ST-PL-1035,Zielony Koszyk Łódź,PL,PLN,50,SVC-INST,Installation and commissioning,1,43880.0,43880.0,Invoiced,2022-07-30
+SO-24145,2022-04-29,C10011,ST-NL-1049,Hollander Apeldoorn,NL,EUR,10,FD-900,Fjord FD-900 display case,3,3864.0,11592.0,Invoiced,2022-08-02
+SO-24145,2022-04-29,C10011,ST-NL-1049,Hollander Apeldoorn,NL,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2022-08-02
+SO-24145,2022-04-29,C10011,ST-NL-1049,Hollander Apeldoorn,NL,EUR,30,SVC-INST,Installation and commissioning,1,3380.0,3380.0,Invoiced,2022-08-02
+SO-24113,2022-05-06,C10014,ST-SE-1098,Nordhavn Nära Halmstad,SE,SEK,10,FD-900,Fjord FD-900 display case,5,36210.0,181050.0,Invoiced,2022-07-22
+SO-24113,2022-05-06,C10014,ST-SE-1098,Nordhavn Nära Halmstad,SE,SEK,20,GC-S,Glacier GC-S cold room,1,125000.0,125000.0,Invoiced,2022-07-22
+SO-24113,2022-05-06,C10014,ST-SE-1098,Nordhavn Nära Halmstad,SE,SEK,30,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2022-07-22
+SO-24113,2022-05-06,C10014,ST-SE-1098,Nordhavn Nära Halmstad,SE,SEK,40,SVC-INST,Installation and commissioning,1,55350.0,55350.0,Invoiced,2022-07-22
+SO-24148,2022-05-11,C10003,ST-SE-1049,Nordhavn Uppsala Luthagen,SE,SEK,10,FD-1200,Fjord FD-1200 display case,6,65660.0,393960.0,Invoiced,2022-08-22
+SO-24148,2022-05-11,C10003,ST-SE-1049,Nordhavn Uppsala Luthagen,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,1,73380.0,73380.0,Invoiced,2022-08-22
+SO-24148,2022-05-11,C10003,ST-SE-1049,Nordhavn Uppsala Luthagen,SE,SEK,30,GC-S,Glacier GC-S cold room,1,140000.0,140000.0,Invoiced,2022-08-22
+SO-24148,2022-05-11,C10003,ST-SE-1049,Nordhavn Uppsala Luthagen,SE,SEK,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,323450.0,323450.0,Invoiced,2022-08-22
+SO-24148,2022-05-11,C10003,ST-SE-1049,Nordhavn Uppsala Luthagen,SE,SEK,50,SVC-INST,Installation and commissioning,1,111690.0,111690.0,Invoiced,2022-08-22
+SO-25879,2022-05-20,C10015,,Distributor warehouse,DE,EUR,10,LED-1200,LED light bar 1200,17,76.0,1292.0,Invoiced,2022-05-20
+SO-25879,2022-05-20,C10015,,Distributor warehouse,DE,EUR,20,HTR-GC-1,"Door heater, cold room",4,104.0,416.0,Invoiced,2022-05-20
+SO-24165,2022-06-03,C10015,ST-DE-1182,Kaufring Forchheim (Franchise),DE,EUR,10,FD-900,Fjord FD-900 display case,5,3150.0,15750.0,Invoiced,2022-08-30
+SO-24165,2022-06-03,C10015,ST-DE-1182,Kaufring Forchheim (Franchise),DE,EUR,20,GC-S,Glacier GC-S cold room,1,10875.0,10875.0,Invoiced,2022-08-30
+SO-24165,2022-06-03,C10015,ST-DE-1182,Kaufring Forchheim (Franchise),DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2022-08-30
+SO-24165,2022-06-03,C10015,ST-DE-1182,Kaufring Forchheim (Franchise),DE,EUR,40,SVC-INST,Installation and commissioning,1,4820.0,4820.0,Invoiced,2022-08-30
+SO-24179,2022-07-18,C10006,ST-EE-1035,Nordhavn Express Tartu Karlova,EE,EUR,10,FD-900,Fjord FD-900 display case,5,3696.0,18480.0,Invoiced,2022-10-04
+SO-24179,2022-07-18,C10006,ST-EE-1035,Nordhavn Express Tartu Karlova,EE,EUR,20,PR-250,Polar PR-250 compressor rack,1,15840.0,15840.0,Invoiced,2022-10-04
+SO-24179,2022-07-18,C10006,ST-EE-1035,Nordhavn Express Tartu Karlova,EE,EUR,30,SVC-INST,Installation and commissioning,1,4120.0,4120.0,Invoiced,2022-10-04
+SO-25925,2022-07-20,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",11,1200.0,13200.0,Invoiced,2022-07-20
+SO-25925,2022-07-20,C10014,,Distributor warehouse,SE,SEK,20,PRS-HP-10,High-pressure sensor,5,690.0,3450.0,Invoiced,2022-07-20
+SO-25922,2022-08-02,C10015,,Distributor warehouse,DE,EUR,10,EVF-22,Evaporator fan motor,5,128.0,640.0,Invoiced,2022-08-02
+SO-25922,2022-08-02,C10015,,Distributor warehouse,DE,EUR,20,HTR-GC-1,"Door heater, cold room",12,104.0,1248.0,Invoiced,2022-08-02
+SO-25897,2022-08-12,C10015,,Distributor warehouse,DE,EUR,10,GSK-0900,Door gasket FD-900,17,18.0,306.0,Invoiced,2022-08-12
+SO-25897,2022-08-12,C10015,,Distributor warehouse,DE,EUR,20,LED-1200,LED light bar 1200,18,76.0,1368.0,Invoiced,2022-08-12
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,10,FD-1200,Fjord FD-1200 display case,5,6256.0,31280.0,Invoiced,2022-12-10
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,4,6992.0,27968.0,Invoiced,2022-12-10
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,30,FD-900,Fjord FD-900 display case,2,3864.0,7728.0,Invoiced,2022-12-10
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,40,GC-M,Glacier GC-M cold room,1,20240.0,20240.0,Invoiced,2022-12-10
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,50,PR-600,Polar PR-600 compressor rack,1,42320.0,42320.0,Invoiced,2022-12-10
+SO-24197,2022-08-17,C10013,ST-FR-1056,Marché Plus Lens,FR,EUR,60,SVC-INST,Installation and commissioning,1,15540.0,15540.0,Invoiced,2022-12-10
+SO-24189,2022-08-26,C10012,ST-CZ-1049,Vltava Pardubice,CZ,CZK,10,FD-900,Fjord FD-900 display case,5,96600.0,483000.0,Invoiced,2022-11-19
+SO-24189,2022-08-26,C10012,ST-CZ-1049,Vltava Pardubice,CZ,CZK,20,PR-250,Polar PR-250 compressor rack,1,414000.0,414000.0,Invoiced,2022-11-19
+SO-24189,2022-08-26,C10012,ST-CZ-1049,Vltava Pardubice,CZ,CZK,30,SVC-INST,Installation and commissioning,1,107640.0,107640.0,Invoiced,2022-11-19
+SO-25777,2022-08-26,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",14,1200.0,16800.0,Invoiced,2022-08-26
+SO-25777,2022-08-26,C10014,,Distributor warehouse,SE,SEK,20,PRS-HP-10,High-pressure sensor,4,690.0,2760.0,Invoiced,2022-08-26
+SO-24204,2022-09-09,C10012,ST-CZ-1007,Vltava Praha,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,4,156400.0,625600.0,Invoiced,2023-01-03
+SO-24204,2022-09-09,C10012,ST-CZ-1007,Vltava Praha,CZ,CZK,20,GC-M,Glacier GC-M cold room,1,506000.0,506000.0,Invoiced,2023-01-03
+SO-24204,2022-09-09,C10012,ST-CZ-1007,Vltava Praha,CZ,CZK,30,PR-400,Polar PR-400 compressor rack,1,667000.0,667000.0,Invoiced,2023-01-03
+SO-24204,2022-09-09,C10012,ST-CZ-1007,Vltava Praha,CZ,CZK,40,SVC-INST,Installation and commissioning,1,215830.0,215830.0,Invoiced,2023-01-03
+SO-24201,2022-09-14,C10010,ST-PL-1084,Zielony Koszyk Opole,PL,PLN,10,FD-1200,Fjord FD-1200 display case,7,26850.0,187950.0,Invoiced,2022-12-12
+SO-24201,2022-09-14,C10010,ST-PL-1084,Zielony Koszyk Opole,PL,PLN,20,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2022-12-12
+SO-24201,2022-09-14,C10010,ST-PL-1084,Zielony Koszyk Opole,PL,PLN,30,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2022-12-12
+SO-24201,2022-09-14,C10010,ST-PL-1084,Zielony Koszyk Opole,PL,PLN,40,SVC-INST,Installation and commissioning,1,46720.0,46720.0,Invoiced,2022-12-12
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,10,FD-1200,Fjord FD-1200 display case,8,5231.0,41848.0,Invoiced,2023-01-19
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,2,5846.0,11692.0,Invoiced,2023-01-19
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,30,FD-900,Fjord FD-900 display case,1,3231.0,3231.0,Invoiced,2023-01-19
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,40,GC-L,Glacier GC-L cold room,2,23846.0,47692.0,Invoiced,2023-01-19
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,50,PR-600,Polar PR-600 compressor rack,1,35385.0,35385.0,Invoiced,2023-01-19
+SO-24235,2022-09-15,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,60,SVC-INST,Installation and commissioning,1,16780.0,16780.0,Invoiced,2023-01-19
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,10,FD-1200,Fjord FD-1200 display case,6,5231.0,31386.0,Invoiced,2023-01-16
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,4,5846.0,23384.0,Invoiced,2023-01-16
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,30,FD-900,Fjord FD-900 display case,2,3231.0,6462.0,Invoiced,2023-01-16
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,40,GC-L,Glacier GC-L cold room,1,23846.0,23846.0,Invoiced,2023-01-16
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,50,PR-600,Polar PR-600 compressor rack,1,35385.0,35385.0,Invoiced,2023-01-16
+SO-24226,2022-09-20,C10009,ST-UK-1028,Albion Fresh Manchester West,UK,GBP,60,SVC-INST,Installation and commissioning,1,14460.0,14460.0,Invoiced,2023-01-16
+SO-24211,2022-09-23,C10011,ST-NL-1042,Hollander Nijmegen,NL,EUR,10,FD-900,Fjord FD-900 display case,5,3864.0,19320.0,Invoiced,2023-01-14
+SO-24211,2022-09-23,C10011,ST-NL-1042,Hollander Nijmegen,NL,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2023-01-14
+SO-24211,2022-09-23,C10011,ST-NL-1042,Hollander Nijmegen,NL,EUR,30,SVC-INST,Installation and commissioning,1,4310.0,4310.0,Invoiced,2023-01-14
+SO-25856,2022-10-25,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,11,690.0,7590.0,Invoiced,2022-10-25
+SO-25856,2022-10-25,C10014,,Distributor warehouse,SE,SEK,20,LED-1200,LED light bar 1200,10,870.0,8700.0,Invoiced,2022-10-25
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,10,FD-1200,Fjord FD-1200 display case,6,5231.0,31386.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,4,5846.0,23384.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,30,FD-900,Fjord FD-900 display case,2,3231.0,6462.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,40,GC-L,Glacier GC-L cold room,1,23846.0,23846.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,50,GC-M,Glacier GC-M cold room,1,16923.0,16923.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,60,PR-600,Polar PR-600 compressor rack,1,35385.0,35385.0,Invoiced,2023-03-06
+SO-24264,2022-11-03,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,70,SVC-INST,Installation and commissioning,1,16490.0,16490.0,Invoiced,2023-03-06
+SO-24246,2022-11-11,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2023-02-23
+SO-24246,2022-11-11,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,20,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2023-02-23
+SO-24246,2022-11-11,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,30,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2023-02-23
+SO-24246,2022-11-11,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,40,SVC-INST,Installation and commissioning,1,96460.0,96460.0,Invoiced,2023-02-23
+SO-24270,2022-11-18,C10012,ST-CZ-1042,Vltava Liberec,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,4,156400.0,625600.0,Invoiced,2023-03-10
+SO-24270,2022-11-18,C10012,ST-CZ-1042,Vltava Liberec,CZ,CZK,20,FD-1200L,Fjord FD-1200L low-front display case,1,174800.0,174800.0,Invoiced,2023-03-10
+SO-24270,2022-11-18,C10012,ST-CZ-1042,Vltava Liberec,CZ,CZK,30,GC-S,Glacier GC-S cold room,1,333500.0,333500.0,Invoiced,2023-03-10
+SO-24270,2022-11-18,C10012,ST-CZ-1042,Vltava Liberec,CZ,CZK,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,770500.0,770500.0,Invoiced,2023-03-10
+SO-24270,2022-11-18,C10012,ST-CZ-1042,Vltava Liberec,CZ,CZK,50,SVC-INST,Installation and commissioning,1,228530.0,228530.0,Invoiced,2023-03-10
+SO-25869,2022-12-12,C10015,,Distributor warehouse,DE,EUR,10,EVF-22,Evaporator fan motor,2,128.0,256.0,Invoiced,2022-12-12
+SO-25869,2022-12-12,C10015,,Distributor warehouse,DE,EUR,20,LED-1200,LED light bar 1200,9,76.0,684.0,Invoiced,2022-12-12
+SO-24302,2022-12-14,C10007,ST-DE-1077,Kaufring Deggendorf,DE,EUR,10,FD-900,Fjord FD-900 display case,4,3612.0,14448.0,Invoiced,2023-04-21
+SO-24302,2022-12-14,C10007,ST-DE-1077,Kaufring Deggendorf,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2023-04-21
+SO-24302,2022-12-14,C10007,ST-DE-1077,Kaufring Deggendorf,DE,EUR,30,SVC-INST,Installation and commissioning,1,3590.0,3590.0,Invoiced,2023-04-21
+SO-24276,2023-01-05,C10013,ST-FR-1049,Marché Plus Valenciennes,FR,EUR,10,FD-900,Fjord FD-900 display case,4,3864.0,15456.0,Invoiced,2023-03-26
+SO-24276,2023-01-05,C10013,ST-FR-1049,Marché Plus Valenciennes,FR,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2023-03-26
+SO-24276,2023-01-05,C10013,ST-FR-1049,Marché Plus Valenciennes,FR,EUR,30,SVC-INST,Installation and commissioning,1,3840.0,3840.0,Invoiced,2023-03-26
+SO-25902,2023-01-17,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,6,690.0,4140.0,Invoiced,2023-01-17
+SO-25902,2023-01-17,C10014,,Distributor warehouse,SE,SEK,20,GSK-0900,Door gasket FD-900,11,200.0,2200.0,Invoiced,2023-01-17
+SO-24283,2023-01-27,C10002,ST-NO-1063,Nordhavn Trondheim Moholt,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2023-04-21
+SO-24283,2023-01-27,C10002,ST-NO-1063,Nordhavn Trondheim Moholt,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,2,72470.0,144940.0,Invoiced,2023-04-21
+SO-24283,2023-01-27,C10002,ST-NO-1063,Nordhavn Trondheim Moholt,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2023-04-21
+SO-24283,2023-01-27,C10002,ST-NO-1063,Nordhavn Trondheim Moholt,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2023-04-21
+SO-24283,2023-01-27,C10002,ST-NO-1063,Nordhavn Trondheim Moholt,NO,NOK,50,SVC-INST,Installation and commissioning,1,130210.0,130210.0,Invoiced,2023-04-21
+SO-24307,2023-01-27,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,10,FD-1200,Fjord FD-1200 display case,5,5848.0,29240.0,Invoiced,2023-05-14
+SO-24307,2023-01-27,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,20,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2023-05-14
+SO-24307,2023-01-27,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,30,PR-400T,"Polar PR-400T compressor rack, tropical",1,28810.0,28810.0,Invoiced,2023-05-14
+SO-24307,2023-01-27,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,40,SVC-INST,Installation and commissioning,1,9240.0,9240.0,Invoiced,2023-05-14
+SO-24312,2023-02-10,C10011,ST-NL-1028,Hollander Zwolle,NL,EUR,10,FD-1200,Fjord FD-1200 display case,6,6256.0,37536.0,Invoiced,2023-05-21
+SO-24312,2023-02-10,C10011,ST-NL-1028,Hollander Zwolle,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6992.0,13984.0,Invoiced,2023-05-21
+SO-24312,2023-02-10,C10011,ST-NL-1028,Hollander Zwolle,NL,EUR,30,GC-M,Glacier GC-M cold room,1,20240.0,20240.0,Invoiced,2023-05-21
+SO-24312,2023-02-10,C10011,ST-NL-1028,Hollander Zwolle,NL,EUR,40,PR-400,Polar PR-400 compressor rack,1,26680.0,26680.0,Invoiced,2023-05-21
+SO-24312,2023-02-10,C10011,ST-NL-1028,Hollander Zwolle,NL,EUR,50,SVC-INST,Installation and commissioning,1,11810.0,11810.0,Invoiced,2023-05-21
+SO-24319,2023-02-10,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,7,156400.0,1094800.0,Invoiced,2023-06-14
+SO-24319,2023-02-10,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,20,FD-1200L,Fjord FD-1200L low-front display case,1,174800.0,174800.0,Invoiced,2023-06-14
+SO-24319,2023-02-10,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,30,GC-S,Glacier GC-S cold room,1,333500.0,333500.0,Invoiced,2023-06-14
+SO-24319,2023-02-10,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,40,PR-400,Polar PR-400 compressor rack,1,667000.0,667000.0,Invoiced,2023-06-14
+SO-24319,2023-02-10,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,50,SVC-INST,Installation and commissioning,1,272410.0,272410.0,Invoiced,2023-06-14
+SO-24373,2023-03-03,C10015,ST-DE-1133,Markt Huber Fürth,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3150.0,9450.0,Invoiced,2023-07-05
+SO-24373,2023-03-03,C10015,ST-DE-1133,Markt Huber Fürth,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2023-07-05
+SO-24373,2023-03-03,C10015,ST-DE-1133,Markt Huber Fürth,DE,EUR,30,SVC-INST,Installation and commissioning,1,2750.0,2750.0,Invoiced,2023-07-05
+SO-25867,2023-03-08,C10015,,Distributor warehouse,DE,EUR,10,HTR-GC-1,"Door heater, cold room",14,104.0,1456.0,Invoiced,2023-03-08
+SO-25867,2023-03-08,C10015,,Distributor warehouse,DE,EUR,20,GSK-0900,Door gasket FD-900,8,18.0,144.0,Invoiced,2023-03-08
+SO-25826,2023-03-09,C10015,,Distributor warehouse,DE,EUR,10,GSK-0900,Door gasket FD-900,4,18.0,72.0,Invoiced,2023-03-09
+SO-25826,2023-03-09,C10015,,Distributor warehouse,DE,EUR,20,LED-1200,LED light bar 1200,16,76.0,1216.0,Invoiced,2023-03-09
+SO-24338,2023-03-20,C10007,ST-DE-1049,Kaufring Landshut,DE,EUR,10,FD-1200,Fjord FD-1200 display case,7,5848.0,40936.0,Invoiced,2023-06-22
+SO-24338,2023-03-20,C10007,ST-DE-1049,Kaufring Landshut,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6536.0,6536.0,Invoiced,2023-06-22
+SO-24338,2023-03-20,C10007,ST-DE-1049,Kaufring Landshut,DE,EUR,30,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2023-06-22
+SO-24338,2023-03-20,C10007,ST-DE-1049,Kaufring Landshut,DE,EUR,40,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2023-06-22
+SO-24338,2023-03-20,C10007,ST-DE-1049,Kaufring Landshut,DE,EUR,50,SVC-INST,Installation and commissioning,1,10960.0,10960.0,Invoiced,2023-06-22
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,10,FD-1200,Fjord FD-1200 display case,6,6256.0,37536.0,Invoiced,2023-07-05
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,4,6992.0,27968.0,Invoiced,2023-07-05
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,30,FD-900,Fjord FD-900 display case,3,3864.0,11592.0,Invoiced,2023-07-05
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,40,GC-M,Glacier GC-M cold room,2,20240.0,40480.0,Invoiced,2023-07-05
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,50,PR-600,Polar PR-600 compressor rack,1,42320.0,42320.0,Invoiced,2023-07-05
+SO-24368,2023-04-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,60,SVC-INST,Installation and commissioning,1,19190.0,19190.0,Invoiced,2023-07-05
+SO-24389,2023-04-06,C10016,ST-NO-1182,Nordhavn Marine Supply Måløy,NO,NOK,10,GC-M,Glacier GC-M cold room,1,235350.0,235350.0,Invoiced,2023-07-15
+SO-24389,2023-04-06,C10016,ST-NO-1182,Nordhavn Marine Supply Måløy,NO,NOK,20,PR-250,Polar PR-250 compressor rack,1,192560.0,192560.0,Invoiced,2023-07-15
+SO-24389,2023-04-06,C10016,ST-NO-1182,Nordhavn Marine Supply Måløy,NO,NOK,30,SVC-INST,Installation and commissioning,1,51350.0,51350.0,Invoiced,2023-07-15
+SO-24429,2023-04-10,C10013,ST-FR-1028,Marché Plus Reims,FR,EUR,10,FD-900,Fjord FD-900 display case,4,3864.0,15456.0,Invoiced,2023-08-16
+SO-24429,2023-04-10,C10013,ST-FR-1028,Marché Plus Reims,FR,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2023-08-16
+SO-24429,2023-04-10,C10013,ST-FR-1028,Marché Plus Reims,FR,EUR,30,SVC-INST,Installation and commissioning,1,3840.0,3840.0,Invoiced,2023-08-16
+SO-24352,2023-04-12,C10010,ST-PL-1077,Zielony Koszyk Konin,PL,PLN,10,FD-900,Fjord FD-900 display case,3,16580.0,49740.0,Invoiced,2023-06-29
+SO-24352,2023-04-12,C10010,ST-PL-1077,Zielony Koszyk Konin,PL,PLN,20,PR-250,Polar PR-250 compressor rack,1,71070.0,71070.0,Invoiced,2023-06-29
+SO-24352,2023-04-12,C10010,ST-PL-1077,Zielony Koszyk Konin,PL,PLN,30,SVC-INST,Installation and commissioning,1,14500.0,14500.0,Invoiced,2023-06-29
+SO-24380,2023-04-20,C10011,ST-NL-1014,Hollander Utrecht West,NL,EUR,10,FD-900,Fjord FD-900 display case,5,3864.0,19320.0,Invoiced,2023-07-08
+SO-24380,2023-04-20,C10011,ST-NL-1014,Hollander Utrecht West,NL,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2023-07-08
+SO-24380,2023-04-20,C10011,ST-NL-1014,Hollander Utrecht West,NL,EUR,30,SVC-INST,Installation and commissioning,1,4310.0,4310.0,Invoiced,2023-07-08
+SO-24423,2023-04-20,C10006,ST-EE-1028,Nordhavn Express Tartu Annelinn,EE,EUR,10,FD-900,Fjord FD-900 display case,4,3696.0,14784.0,Invoiced,2023-08-15
+SO-24423,2023-04-20,C10006,ST-EE-1028,Nordhavn Express Tartu Annelinn,EE,EUR,20,PR-250,Polar PR-250 compressor rack,1,15840.0,15840.0,Invoiced,2023-08-15
+SO-24423,2023-04-20,C10006,ST-EE-1028,Nordhavn Express Tartu Annelinn,EE,EUR,30,SVC-INST,Installation and commissioning,1,3670.0,3670.0,Invoiced,2023-08-15
+SO-24397,2023-04-28,C10014,ST-SE-1091,Nordhavn Nära Varberg,SE,SEK,10,FD-900,Fjord FD-900 display case,5,36210.0,181050.0,Invoiced,2023-08-02
+SO-24397,2023-04-28,C10014,ST-SE-1091,Nordhavn Nära Varberg,SE,SEK,20,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2023-08-02
+SO-24397,2023-04-28,C10014,ST-SE-1091,Nordhavn Nära Varberg,SE,SEK,30,SVC-INST,Installation and commissioning,1,40350.0,40350.0,Invoiced,2023-08-02
+SO-24411,2023-05-05,C10010,ST-PL-1007,Zielony Koszyk Poznań,PL,PLN,10,FD-1200,Fjord FD-1200 display case,5,26850.0,134250.0,Invoiced,2023-08-09
+SO-24411,2023-05-05,C10010,ST-PL-1007,Zielony Koszyk Poznań,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,1,30010.0,30010.0,Invoiced,2023-08-09
+SO-24411,2023-05-05,C10010,ST-PL-1007,Zielony Koszyk Poznań,PL,PLN,30,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2023-08-09
+SO-24411,2023-05-05,C10010,ST-PL-1007,Zielony Koszyk Poznań,PL,PLN,40,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2023-08-09
+SO-24411,2023-05-05,C10010,ST-PL-1007,Zielony Koszyk Poznań,PL,PLN,50,SVC-INST,Installation and commissioning,1,43880.0,43880.0,Invoiced,2023-08-09
+SO-25794,2023-05-12,C10014,,Distributor warehouse,SE,SEK,10,LED-1200,LED light bar 1200,15,870.0,13050.0,Invoiced,2023-05-12
+SO-25794,2023-05-12,C10014,,Distributor warehouse,SE,SEK,20,HTR-GC-1,"Door heater, cold room",12,1200.0,14400.0,Invoiced,2023-05-12
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,10,FD-1200,Fjord FD-1200 display case,5,64840.0,324200.0,Invoiced,2023-08-20
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,3,72470.0,217410.0,Invoiced,2023-08-20
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,30,FD-900,Fjord FD-900 display case,2,40050.0,80100.0,Invoiced,2023-08-20
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,40,GC-L,Glacier GC-L cold room,1,295580.0,295580.0,Invoiced,2023-08-20
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,50,PR-600,Polar PR-600 compressor rack,1,438600.0,438600.0,Invoiced,2023-08-20
+SO-24440,2023-05-15,C10002,ST-NO-1084,Nordhavn Mega Stavanger Hillevåg,NO,NOK,60,SVC-INST,Installation and commissioning,1,162710.0,162710.0,Invoiced,2023-08-20
+SO-24453,2023-05-24,C10015,ST-DE-1154,Getränke & Markt Schwabach,DE,EUR,10,FD-900,Fjord FD-900 display case,5,3150.0,15750.0,Invoiced,2023-08-23
+SO-24453,2023-05-24,C10015,ST-DE-1154,Getränke & Markt Schwabach,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2023-08-23
+SO-24453,2023-05-24,C10015,ST-DE-1154,Getränke & Markt Schwabach,DE,EUR,30,SVC-INST,Installation and commissioning,1,3510.0,3510.0,Invoiced,2023-08-23
+SO-24459,2023-06-02,C10004,ST-DK-1042,Nordhavn Express Odense Centrum,DK,DKK,10,FD-900,Fjord FD-900 display case,4,26640.0,106560.0,Invoiced,2023-09-03
+SO-24459,2023-06-02,C10004,ST-DK-1042,Nordhavn Express Odense Centrum,DK,DKK,20,PR-250,Polar PR-250 compressor rack,1,114180.0,114180.0,Invoiced,2023-09-03
+SO-24459,2023-06-02,C10004,ST-DK-1042,Nordhavn Express Odense Centrum,DK,DKK,30,SVC-INST,Installation and commissioning,1,26490.0,26490.0,Invoiced,2023-09-03
+SO-24468,2023-06-09,C10003,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,10,FD-1200,Fjord FD-1200 display case,5,65660.0,328300.0,Invoiced,2023-09-14
+SO-24468,2023-06-09,C10003,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,2,73380.0,146760.0,Invoiced,2023-09-14
+SO-24468,2023-06-09,C10003,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,30,GC-M,Glacier GC-M cold room,1,212410.0,212410.0,Invoiced,2023-09-14
+SO-24468,2023-06-09,C10003,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,323450.0,323450.0,Invoiced,2023-09-14
+SO-24468,2023-06-09,C10003,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,50,SVC-INST,Installation and commissioning,1,121310.0,121310.0,Invoiced,2023-09-14
+SO-24482,2023-07-07,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,10,FD-1200,Fjord FD-1200 display case,4,5984.0,23936.0,Invoiced,2023-11-11
+SO-24482,2023-07-07,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,20,GC-M,Glacier GC-M cold room,1,19360.0,19360.0,Invoiced,2023-11-11
+SO-24482,2023-07-07,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,30,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2023-11-11
+SO-24482,2023-07-07,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,40,SVC-INST,Installation and commissioning,1,8260.0,8260.0,Invoiced,2023-11-11
+SO-25881,2023-07-19,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,8,200.0,1600.0,Invoiced,2023-07-19
+SO-25881,2023-07-19,C10014,,Distributor warehouse,SE,SEK,20,HTR-GC-1,"Door heater, cold room",8,1200.0,9600.0,Invoiced,2023-07-19
+SO-25835,2023-07-27,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,3,200.0,600.0,Invoiced,2023-07-27
+SO-25835,2023-07-27,C10014,,Distributor warehouse,SE,SEK,20,HTR-GC-1,"Door heater, cold room",9,1200.0,10800.0,Invoiced,2023-07-27
+SO-24489,2023-09-13,C10013,ST-FR-1007,Marché Plus Lille,FR,EUR,10,FD-900,Fjord FD-900 display case,3,3864.0,11592.0,Invoiced,2023-11-25
+SO-24489,2023-09-13,C10013,ST-FR-1007,Marché Plus Lille,FR,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2023-11-25
+SO-24489,2023-09-13,C10013,ST-FR-1007,Marché Plus Lille,FR,EUR,30,SVC-INST,Installation and commissioning,1,3380.0,3380.0,Invoiced,2023-11-25
+SO-24511,2023-09-28,C10008,ST-AT-1042,Kaufring Steyr,AT,EUR,10,FD-1200,Fjord FD-1200 display case,4,5984.0,23936.0,Invoiced,2024-02-05
+SO-24511,2023-09-28,C10008,ST-AT-1042,Kaufring Steyr,AT,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6688.0,13376.0,Invoiced,2024-02-05
+SO-24511,2023-09-28,C10008,ST-AT-1042,Kaufring Steyr,AT,EUR,30,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2024-02-05
+SO-24511,2023-09-28,C10008,ST-AT-1042,Kaufring Steyr,AT,EUR,40,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2024-02-05
+SO-24511,2023-09-28,C10008,ST-AT-1042,Kaufring Steyr,AT,EUR,50,SVC-INST,Installation and commissioning,1,9070.0,9070.0,Invoiced,2024-02-05
+SO-24504,2023-10-12,C10007,ST-DE-1063,Kaufring Kempten,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3612.0,10836.0,Invoiced,2023-12-24
+SO-24504,2023-10-12,C10007,ST-DE-1063,Kaufring Kempten,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2023-12-24
+SO-24504,2023-10-12,C10007,ST-DE-1063,Kaufring Kempten,DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2023-12-24
+SO-24504,2023-10-12,C10007,ST-DE-1063,Kaufring Kempten,DE,EUR,40,SVC-INST,Installation and commissioning,1,4650.0,4650.0,Invoiced,2023-12-24
+SO-25941,2023-10-24,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,12,200.0,2400.0,Invoiced,2023-10-24
+SO-25941,2023-10-24,C10014,,Distributor warehouse,SE,SEK,20,HTR-GC-1,"Door heater, cold room",12,1200.0,14400.0,Invoiced,2023-10-24
+SO-24523,2023-11-06,C10014,ST-SE-1077,Nordhavn Nära Lund,SE,SEK,10,FD-900,Fjord FD-900 display case,4,36210.0,144840.0,Invoiced,2024-02-26
+SO-24523,2023-11-06,C10014,ST-SE-1077,Nordhavn Nära Lund,SE,SEK,20,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2024-02-26
+SO-24523,2023-11-06,C10014,ST-SE-1077,Nordhavn Nära Lund,SE,SEK,30,SVC-INST,Installation and commissioning,1,36000.0,36000.0,Invoiced,2024-02-26
+SO-24529,2023-12-11,C10016,ST-NO-1168,Nordhavn Marine Supply Ålesund kai,NO,NOK,10,GC-M,Glacier GC-M cold room,1,235350.0,235350.0,Invoiced,2024-03-10
+SO-24529,2023-12-11,C10016,ST-NO-1168,Nordhavn Marine Supply Ålesund kai,NO,NOK,20,PR-250,Polar PR-250 compressor rack,1,192560.0,192560.0,Invoiced,2024-03-10
+SO-24529,2023-12-11,C10016,ST-NO-1168,Nordhavn Marine Supply Ålesund kai,NO,NOK,30,SVC-INST,Installation and commissioning,1,51350.0,51350.0,Invoiced,2024-03-10
+SO-24551,2023-12-25,C10014,ST-SE-1084,Nordhavn Nära Ystad,SE,SEK,10,FD-900,Fjord FD-900 display case,5,36210.0,181050.0,Invoiced,2024-04-14
+SO-24551,2023-12-25,C10014,ST-SE-1084,Nordhavn Nära Ystad,SE,SEK,20,GC-S,Glacier GC-S cold room,1,125000.0,125000.0,Invoiced,2024-04-14
+SO-24551,2023-12-25,C10014,ST-SE-1084,Nordhavn Nära Ystad,SE,SEK,30,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2024-04-14
+SO-24551,2023-12-25,C10014,ST-SE-1084,Nordhavn Nära Ystad,SE,SEK,40,SVC-INST,Installation and commissioning,1,55350.0,55350.0,Invoiced,2024-04-14
+SO-25784,2024-01-01,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,18,690.0,12420.0,Invoiced,2024-01-01
+SO-25784,2024-01-01,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,14,1470.0,20580.0,Invoiced,2024-01-01
+SO-24547,2024-01-05,C10007,ST-DE-1126,Kaufring Bad Tölz,DE,EUR,10,FD-1200,Fjord FD-1200 display case,6,5848.0,35088.0,Invoiced,2024-04-03
+SO-24547,2024-01-05,C10007,ST-DE-1126,Kaufring Bad Tölz,DE,EUR,20,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2024-04-03
+SO-24547,2024-01-05,C10007,ST-DE-1126,Kaufring Bad Tölz,DE,EUR,30,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2024-04-03
+SO-24547,2024-01-05,C10007,ST-DE-1126,Kaufring Bad Tölz,DE,EUR,40,SVC-INST,Installation and commissioning,1,9470.0,9470.0,Invoiced,2024-04-03
+SO-24588,2024-01-05,C10002,ST-NO-1112,Nordhavn Ålesund Moa,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2024-05-07
+SO-24588,2024-01-05,C10002,ST-NO-1112,Nordhavn Ålesund Moa,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2024-05-07
+SO-24588,2024-01-05,C10002,ST-NO-1112,Nordhavn Ålesund Moa,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2024-05-07
+SO-24588,2024-01-05,C10002,ST-NO-1112,Nordhavn Ålesund Moa,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2024-05-07
+SO-24588,2024-01-05,C10002,ST-NO-1112,Nordhavn Ålesund Moa,NO,NOK,50,SVC-INST,Installation and commissioning,1,121520.0,121520.0,Invoiced,2024-05-07
+SO-25946,2024-01-08,C10015,,Distributor warehouse,DE,EUR,10,PRS-HP-10,High-pressure sensor,20,60.0,1200.0,Invoiced,2024-01-08
+SO-25946,2024-01-08,C10015,,Distributor warehouse,DE,EUR,20,GSK-0900,Door gasket FD-900,5,18.0,90.0,Invoiced,2024-01-08
+SO-25862,2024-01-12,C10015,,Distributor warehouse,DE,EUR,10,GSK-0900,Door gasket FD-900,11,18.0,198.0,Invoiced,2024-01-12
+SO-25862,2024-01-12,C10015,,Distributor warehouse,DE,EUR,20,HTR-GC-1,"Door heater, cold room",11,104.0,1144.0,Invoiced,2024-01-12
+SO-25818,2024-01-16,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,11,690.0,7590.0,Invoiced,2024-01-16
+SO-25818,2024-01-16,C10014,,Distributor warehouse,SE,SEK,20,LED-1200,LED light bar 1200,3,870.0,2610.0,Invoiced,2024-01-16
+SO-24561,2024-01-19,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,10,FD-1200,Fjord FD-1200 display case,5,43130.0,215650.0,Invoiced,2024-04-28
+SO-24561,2024-01-19,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,20,FD-1200L,Fjord FD-1200L low-front display case,1,48210.0,48210.0,Invoiced,2024-04-28
+SO-24561,2024-01-19,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,30,GC-S,Glacier GC-S cold room,1,91980.0,91980.0,Invoiced,2024-04-28
+SO-24561,2024-01-19,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,40,PR-400,Polar PR-400 compressor rack,1,183960.0,183960.0,Invoiced,2024-04-28
+SO-24561,2024-01-19,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,50,SVC-INST,Installation and commissioning,1,64780.0,64780.0,Invoiced,2024-04-28
+SO-24582,2024-01-29,C10005,ST-FI-1014,Nordhavn Helsinki Pasila,FI,EUR,10,FD-1200,Fjord FD-1200 display case,4,5780.0,23120.0,Invoiced,2024-05-02
+SO-24582,2024-01-29,C10005,ST-FI-1014,Nordhavn Helsinki Pasila,FI,EUR,20,GC-S,Glacier GC-S cold room,1,12325.0,12325.0,Invoiced,2024-05-02
+SO-24582,2024-01-29,C10005,ST-FI-1014,Nordhavn Helsinki Pasila,FI,EUR,30,PR-400,Polar PR-400 compressor rack,1,24650.0,24650.0,Invoiced,2024-05-02
+SO-24582,2024-01-29,C10005,ST-FI-1014,Nordhavn Helsinki Pasila,FI,EUR,40,SVC-INST,Installation and commissioning,1,7210.0,7210.0,Invoiced,2024-05-02
+SO-24572,2024-02-07,C10003,ST-SE-1035,Nordhavn Express Göteborg Hisingen,SE,SEK,10,FD-900,Fjord FD-900 display case,5,40550.0,202750.0,Invoiced,2024-04-29
+SO-24572,2024-02-07,C10003,ST-SE-1035,Nordhavn Express Göteborg Hisingen,SE,SEK,20,GC-S,Glacier GC-S cold room,1,140000.0,140000.0,Invoiced,2024-04-29
+SO-24572,2024-02-07,C10003,ST-SE-1035,Nordhavn Express Göteborg Hisingen,SE,SEK,30,PR-250,Polar PR-250 compressor rack,1,173790.0,173790.0,Invoiced,2024-04-29
+SO-24572,2024-02-07,C10003,ST-SE-1035,Nordhavn Express Göteborg Hisingen,SE,SEK,40,SVC-INST,Installation and commissioning,1,61980.0,61980.0,Invoiced,2024-04-29
+SO-24601,2024-02-12,C10007,ST-DE-1021,Kaufring Regensburg,DE,EUR,10,FD-900,Fjord FD-900 display case,4,3612.0,14448.0,Invoiced,2024-05-10
+SO-24601,2024-02-12,C10007,ST-DE-1021,Kaufring Regensburg,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2024-05-10
+SO-24601,2024-02-12,C10007,ST-DE-1021,Kaufring Regensburg,DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2024-05-10
+SO-24601,2024-02-12,C10007,ST-DE-1021,Kaufring Regensburg,DE,EUR,40,SVC-INST,Installation and commissioning,1,5090.0,5090.0,Invoiced,2024-05-10
+SO-24655,2024-02-16,C10015,ST-DE-1168,Markt Amberg,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3150.0,9450.0,Invoiced,2024-06-03
+SO-24655,2024-02-16,C10015,ST-DE-1168,Markt Amberg,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2024-06-03
+SO-24655,2024-02-16,C10015,ST-DE-1168,Markt Amberg,DE,EUR,30,SVC-INST,Installation and commissioning,1,2750.0,2750.0,Invoiced,2024-06-03
+SO-24680,2024-02-28,C10006,ST-EE-1007,Nordhavn Tallinn Kesklinn,EE,EUR,10,FD-1200,Fjord FD-1200 display case,7,5984.0,41888.0,Invoiced,2024-06-29
+SO-24680,2024-02-28,C10006,ST-EE-1007,Nordhavn Tallinn Kesklinn,EE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6688.0,13376.0,Invoiced,2024-06-29
+SO-24680,2024-02-28,C10006,ST-EE-1007,Nordhavn Tallinn Kesklinn,EE,EUR,30,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2024-06-29
+SO-24680,2024-02-28,C10006,ST-EE-1007,Nordhavn Tallinn Kesklinn,EE,EUR,40,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2024-06-29
+SO-24680,2024-02-28,C10006,ST-EE-1007,Nordhavn Tallinn Kesklinn,EE,EUR,50,SVC-INST,Installation and commissioning,1,11230.0,11230.0,Invoiced,2024-06-29
+SO-24613,2024-02-29,C10002,ST-NO-1070,Nordhavn Express Trondheim Heimdal,NO,NOK,10,FD-900,Fjord FD-900 display case,3,40050.0,120150.0,Invoiced,2024-05-14
+SO-24613,2024-02-29,C10002,ST-NO-1070,Nordhavn Express Trondheim Heimdal,NO,NOK,20,PR-250,Polar PR-250 compressor rack,1,171630.0,171630.0,Invoiced,2024-05-14
+SO-24613,2024-02-29,C10002,ST-NO-1070,Nordhavn Express Trondheim Heimdal,NO,NOK,30,SVC-INST,Installation and commissioning,1,35010.0,35010.0,Invoiced,2024-05-14
+SO-24630,2024-03-04,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,10,FD-1200,Fjord FD-1200 display case,6,43130.0,258780.0,Invoiced,2024-05-29
+SO-24630,2024-03-04,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,20,FD-1200L,Fjord FD-1200L low-front display case,1,48210.0,48210.0,Invoiced,2024-05-29
+SO-24630,2024-03-04,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,30,GC-S,Glacier GC-S cold room,1,91980.0,91980.0,Invoiced,2024-05-29
+SO-24630,2024-03-04,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,40,PR-400,Polar PR-400 compressor rack,1,183960.0,183960.0,Invoiced,2024-05-29
+SO-24630,2024-03-04,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,50,SVC-INST,Installation and commissioning,1,69950.0,69950.0,Invoiced,2024-05-29
+SO-24638,2024-03-08,C10007,ST-DE-1028,Kaufring Passau,DE,EUR,10,FD-1200,Fjord FD-1200 display case,5,5848.0,29240.0,Invoiced,2024-06-03
+SO-24638,2024-03-08,C10007,ST-DE-1028,Kaufring Passau,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6536.0,13072.0,Invoiced,2024-06-03
+SO-24638,2024-03-08,C10007,ST-DE-1028,Kaufring Passau,DE,EUR,30,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2024-06-03
+SO-24638,2024-03-08,C10007,ST-DE-1028,Kaufring Passau,DE,EUR,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,28810.0,28810.0,Invoiced,2024-06-03
+SO-24638,2024-03-08,C10007,ST-DE-1028,Kaufring Passau,DE,EUR,50,SVC-INST,Installation and commissioning,1,10030.0,10030.0,Invoiced,2024-06-03
+SO-24623,2024-03-12,C10007,ST-DE-1056,Kaufring Straubing,DE,EUR,10,FD-900,Fjord FD-900 display case,4,3612.0,14448.0,Invoiced,2024-05-27
+SO-24623,2024-03-12,C10007,ST-DE-1056,Kaufring Straubing,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2024-05-27
+SO-24623,2024-03-12,C10007,ST-DE-1056,Kaufring Straubing,DE,EUR,30,SVC-INST,Installation and commissioning,1,3590.0,3590.0,Invoiced,2024-05-27
+SO-24671,2024-03-15,C10008,ST-AT-1035,Kaufring Hallein,AT,EUR,10,FD-1200,Fjord FD-1200 display case,7,5984.0,41888.0,Invoiced,2024-06-21
+SO-24671,2024-03-15,C10008,ST-AT-1035,Kaufring Hallein,AT,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6688.0,13376.0,Invoiced,2024-06-21
+SO-24671,2024-03-15,C10008,ST-AT-1035,Kaufring Hallein,AT,EUR,30,GC-M,Glacier GC-M cold room,1,19360.0,19360.0,Invoiced,2024-06-21
+SO-24671,2024-03-15,C10008,ST-AT-1035,Kaufring Hallein,AT,EUR,40,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2024-06-21
+SO-24671,2024-03-15,C10008,ST-AT-1035,Kaufring Hallein,AT,EUR,50,SVC-INST,Installation and commissioning,1,12020.0,12020.0,Invoiced,2024-06-21
+SO-24719,2024-03-21,C10001,ST-NO-1161,Nordhavn Sentrallager Trondheim,NO,NOK,10,GC-L,Glacier GC-L cold room,6,295580.0,1773480.0,Invoiced,2024-07-15
+SO-24719,2024-03-21,C10001,ST-NO-1161,Nordhavn Sentrallager Trondheim,NO,NOK,20,PR-400,Polar PR-400 compressor rack,2,276510.0,553020.0,Invoiced,2024-07-15
+SO-24719,2024-03-21,C10001,ST-NO-1161,Nordhavn Sentrallager Trondheim,NO,NOK,30,SVC-INST,Installation and commissioning,1,279180.0,279180.0,Invoiced,2024-07-15
+SO-24741,2024-03-27,C10002,ST-NO-1105,Nordhavn Kristiansand Lund,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2024-07-18
+SO-24741,2024-03-27,C10002,ST-NO-1105,Nordhavn Kristiansand Lund,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2024-07-18
+SO-24741,2024-03-27,C10002,ST-NO-1105,Nordhavn Kristiansand Lund,NO,NOK,30,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2024-07-18
+SO-24741,2024-03-27,C10002,ST-NO-1105,Nordhavn Kristiansand Lund,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2024-07-18
+SO-24741,2024-03-27,C10002,ST-NO-1105,Nordhavn Kristiansand Lund,NO,NOK,50,SVC-INST,Installation and commissioning,1,112930.0,112930.0,Invoiced,2024-07-18
+SO-24703,2024-03-29,C10005,ST-FI-1042,Nordhavn Turku Keskusta,FI,EUR,10,FD-1200,Fjord FD-1200 display case,5,5780.0,28900.0,Invoiced,2024-07-06
+SO-24703,2024-03-29,C10005,ST-FI-1042,Nordhavn Turku Keskusta,FI,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6460.0,6460.0,Invoiced,2024-07-06
+SO-24703,2024-03-29,C10005,ST-FI-1042,Nordhavn Turku Keskusta,FI,EUR,30,GC-M,Glacier GC-M cold room,1,18700.0,18700.0,Invoiced,2024-07-06
+SO-24703,2024-03-29,C10005,ST-FI-1042,Nordhavn Turku Keskusta,FI,EUR,40,PR-400,Polar PR-400 compressor rack,1,24650.0,24650.0,Invoiced,2024-07-06
+SO-24703,2024-03-29,C10005,ST-FI-1042,Nordhavn Turku Keskusta,FI,EUR,50,SVC-INST,Installation and commissioning,1,9450.0,9450.0,Invoiced,2024-07-06
+SO-24664,2024-04-01,C10002,ST-NO-1014,Nordhavn Express Oslo Grünerløkka,NO,NOK,10,FD-900,Fjord FD-900 display case,5,40050.0,200250.0,Invoiced,2024-06-12
+SO-24664,2024-04-01,C10002,ST-NO-1014,Nordhavn Express Oslo Grünerløkka,NO,NOK,20,PR-250,Polar PR-250 compressor rack,1,171630.0,171630.0,Invoiced,2024-06-12
+SO-24664,2024-04-01,C10002,ST-NO-1014,Nordhavn Express Oslo Grünerløkka,NO,NOK,30,SVC-INST,Installation and commissioning,1,44630.0,44630.0,Invoiced,2024-06-12
+SO-25886,2024-04-05,C10015,,Distributor warehouse,DE,EUR,10,LED-1200,LED light bar 1200,19,76.0,1444.0,Invoiced,2024-04-05
+SO-25886,2024-04-05,C10015,,Distributor warehouse,DE,EUR,20,PRS-HP-10,High-pressure sensor,13,60.0,780.0,Invoiced,2024-04-05
+SO-24687,2024-04-09,C10004,ST-DK-1049,Nordhavn Express Aalborg Vestby,DK,DKK,10,FD-900,Fjord FD-900 display case,5,26640.0,133200.0,Invoiced,2024-06-30
+SO-24687,2024-04-09,C10004,ST-DK-1049,Nordhavn Express Aalborg Vestby,DK,DKK,20,PR-250,Polar PR-250 compressor rack,1,114180.0,114180.0,Invoiced,2024-06-30
+SO-24687,2024-04-09,C10004,ST-DK-1049,Nordhavn Express Aalborg Vestby,DK,DKK,30,SVC-INST,Installation and commissioning,1,29690.0,29690.0,Invoiced,2024-06-30
+SO-24698,2024-04-09,C10006,ST-EE-1014,Nordhavn Tallinn Mustamäe,EE,EUR,10,FD-1200,Fjord FD-1200 display case,4,5984.0,23936.0,Invoiced,2024-07-04
+SO-24698,2024-04-09,C10006,ST-EE-1014,Nordhavn Tallinn Mustamäe,EE,EUR,20,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2024-07-04
+SO-24698,2024-04-09,C10006,ST-EE-1014,Nordhavn Tallinn Mustamäe,EE,EUR,30,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2024-07-04
+SO-24698,2024-04-09,C10006,ST-EE-1014,Nordhavn Tallinn Mustamäe,EE,EUR,40,SVC-INST,Installation and commissioning,1,7470.0,7470.0,Invoiced,2024-07-04
+SO-24762,2024-04-09,C10007,ST-DE-1119,Kaufring Cham,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3612.0,10836.0,Invoiced,2024-07-22
+SO-24762,2024-04-09,C10007,ST-DE-1119,Kaufring Cham,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2024-07-22
+SO-24762,2024-04-09,C10007,ST-DE-1119,Kaufring Cham,DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2024-07-22
+SO-24762,2024-04-09,C10007,ST-DE-1119,Kaufring Cham,DE,EUR,40,SVC-INST,Installation and commissioning,1,4650.0,4650.0,Invoiced,2024-07-22
+SO-24745,2024-04-11,C10002,ST-NO-1049,Nordhavn Oslo Tøyen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2024-07-19
+SO-24745,2024-04-11,C10002,ST-NO-1049,Nordhavn Oslo Tøyen,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2024-07-19
+SO-24745,2024-04-11,C10002,ST-NO-1049,Nordhavn Oslo Tøyen,NO,NOK,30,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2024-07-19
+SO-24745,2024-04-11,C10002,ST-NO-1049,Nordhavn Oslo Tøyen,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2024-07-19
+SO-24745,2024-04-11,C10002,ST-NO-1049,Nordhavn Oslo Tøyen,NO,NOK,50,SVC-INST,Installation and commissioning,1,105150.0,105150.0,Invoiced,2024-07-19
+SO-24769,2024-04-12,C10006,ST-EE-1021,Nordhavn Tallinn Lasnamäe,EE,EUR,10,FD-1200,Fjord FD-1200 display case,5,5984.0,29920.0,Invoiced,2024-07-26
+SO-24769,2024-04-12,C10006,ST-EE-1021,Nordhavn Tallinn Lasnamäe,EE,EUR,20,GC-M,Glacier GC-M cold room,1,19360.0,19360.0,Invoiced,2024-07-26
+SO-24769,2024-04-12,C10006,ST-EE-1021,Nordhavn Tallinn Lasnamäe,EE,EUR,30,PR-400,Polar PR-400 compressor rack,1,25520.0,25520.0,Invoiced,2024-07-26
+SO-24769,2024-04-12,C10006,ST-EE-1021,Nordhavn Tallinn Lasnamäe,EE,EUR,40,SVC-INST,Installation and commissioning,1,8980.0,8980.0,Invoiced,2024-07-26
+SO-24779,2024-04-18,C10008,ST-AT-1014,Kaufring Linz,AT,EUR,10,FD-900,Fjord FD-900 display case,3,3696.0,11088.0,Invoiced,2024-08-07
+SO-24779,2024-04-18,C10008,ST-AT-1014,Kaufring Linz,AT,EUR,20,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2024-08-07
+SO-24779,2024-04-18,C10008,ST-AT-1014,Kaufring Linz,AT,EUR,30,PR-250,Polar PR-250 compressor rack,1,15840.0,15840.0,Invoiced,2024-08-07
+SO-24779,2024-04-18,C10008,ST-AT-1014,Kaufring Linz,AT,EUR,40,SVC-INST,Installation and commissioning,1,4760.0,4760.0,Invoiced,2024-08-07
+SO-24729,2024-04-26,C10007,ST-DE-1042,Kaufring Ingolstadt,DE,EUR,10,FD-1200,Fjord FD-1200 display case,6,5848.0,35088.0,Invoiced,2024-07-17
+SO-24729,2024-04-26,C10007,ST-DE-1042,Kaufring Ingolstadt,DE,EUR,20,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2024-07-17
+SO-24729,2024-04-26,C10007,ST-DE-1042,Kaufring Ingolstadt,DE,EUR,30,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2024-07-17
+SO-24729,2024-04-26,C10007,ST-DE-1042,Kaufring Ingolstadt,DE,EUR,40,SVC-INST,Installation and commissioning,1,9470.0,9470.0,Invoiced,2024-07-17
+SO-24784,2024-04-26,C10013,ST-FR-1042,Marché Plus Douai,FR,EUR,10,FD-900,Fjord FD-900 display case,5,3864.0,19320.0,Invoiced,2024-08-09
+SO-24784,2024-04-26,C10013,ST-FR-1042,Marché Plus Douai,FR,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2024-08-09
+SO-24784,2024-04-26,C10013,ST-FR-1042,Marché Plus Douai,FR,EUR,30,SVC-INST,Installation and commissioning,1,4310.0,4310.0,Invoiced,2024-08-09
+SO-24834,2024-05-03,C10009,ST-UK-1084,Albion Fresh Huddersfield,UK,GBP,10,FD-1200,Fjord FD-1200 display case,5,5231.0,26155.0,Invoiced,2024-08-29
+SO-24834,2024-05-03,C10009,ST-UK-1084,Albion Fresh Huddersfield,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,1,5846.0,5846.0,Invoiced,2024-08-29
+SO-24834,2024-05-03,C10009,ST-UK-1084,Albion Fresh Huddersfield,UK,GBP,30,GC-M,Glacier GC-M cold room,1,16923.0,16923.0,Invoiced,2024-08-29
+SO-24834,2024-05-03,C10009,ST-UK-1084,Albion Fresh Huddersfield,UK,GBP,40,PR-400,Polar PR-400 compressor rack,1,22308.0,22308.0,Invoiced,2024-08-29
+SO-24834,2024-05-03,C10009,ST-UK-1084,Albion Fresh Huddersfield,UK,GBP,50,SVC-INST,Installation and commissioning,1,8550.0,8550.0,Invoiced,2024-08-29
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,10,FD-1200,Fjord FD-1200 display case,5,5231.0,26155.0,Invoiced,2024-09-07
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,3,5846.0,17538.0,Invoiced,2024-09-07
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,30,FD-900,Fjord FD-900 display case,1,3231.0,3231.0,Invoiced,2024-09-07
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,40,GC-L,Glacier GC-L cold room,1,23846.0,23846.0,Invoiced,2024-09-07
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,50,PR-400,Polar PR-400 compressor rack,2,22308.0,44616.0,Invoiced,2024-09-07
+SO-24893,2024-05-03,C10009,ST-UK-1056,Albion Fresh Bradford,UK,GBP,60,SVC-INST,Installation and commissioning,1,13850.0,13850.0,Invoiced,2024-09-07
+SO-24845,2024-05-10,C10002,ST-NO-1042,Nordhavn Oslo Skøyen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2024-08-30
+SO-24845,2024-05-10,C10002,ST-NO-1042,Nordhavn Oslo Skøyen,NO,NOK,20,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2024-08-30
+SO-24845,2024-05-10,C10002,ST-NO-1042,Nordhavn Oslo Skøyen,NO,NOK,30,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2024-08-30
+SO-24845,2024-05-10,C10002,ST-NO-1042,Nordhavn Oslo Skøyen,NO,NOK,40,SVC-INST,Installation and commissioning,1,105040.0,105040.0,Invoiced,2024-08-30
+SO-24812,2024-05-13,C10009,ST-UK-1035,Albion Fresh York,UK,GBP,10,FD-1200,Fjord FD-1200 display case,4,5231.0,20924.0,Invoiced,2024-08-23
+SO-24812,2024-05-13,C10009,ST-UK-1035,Albion Fresh York,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,2,5846.0,11692.0,Invoiced,2024-08-23
+SO-24812,2024-05-13,C10009,ST-UK-1035,Albion Fresh York,UK,GBP,30,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2024-08-23
+SO-24812,2024-05-13,C10009,ST-UK-1035,Albion Fresh York,UK,GBP,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,25769.0,25769.0,Invoiced,2024-08-23
+SO-24812,2024-05-13,C10009,ST-UK-1035,Albion Fresh York,UK,GBP,50,SVC-INST,Installation and commissioning,1,8340.0,8340.0,Invoiced,2024-08-23
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,10,FD-1200,Fjord FD-1200 display case,7,5231.0,36617.0,Invoiced,2024-09-03
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,3,5846.0,17538.0,Invoiced,2024-09-03
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,30,FD-900,Fjord FD-900 display case,2,3231.0,6462.0,Invoiced,2024-09-03
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,40,GC-M,Glacier GC-M cold room,1,16923.0,16923.0,Invoiced,2024-09-03
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,50,PR-400,Polar PR-400 compressor rack,2,22308.0,44616.0,Invoiced,2024-09-03
+SO-24883,2024-05-22,C10009,ST-UK-1070,Albion Fresh Harrogate,UK,GBP,60,SVC-INST,Installation and commissioning,1,14660.0,14660.0,Invoiced,2024-09-03
+SO-24929,2024-05-22,C10009,ST-UK-1098,Albion Fresh Barnsley,UK,GBP,10,FD-1200,Fjord FD-1200 display case,6,5231.0,31386.0,Invoiced,2024-09-27
+SO-24929,2024-05-22,C10009,ST-UK-1098,Albion Fresh Barnsley,UK,GBP,20,GC-M,Glacier GC-M cold room,1,16923.0,16923.0,Invoiced,2024-09-27
+SO-24929,2024-05-22,C10009,ST-UK-1098,Albion Fresh Barnsley,UK,GBP,30,PR-400,Polar PR-400 compressor rack,1,22308.0,22308.0,Invoiced,2024-09-27
+SO-24929,2024-05-22,C10009,ST-UK-1098,Albion Fresh Barnsley,UK,GBP,40,SVC-INST,Installation and commissioning,1,8470.0,8470.0,Invoiced,2024-09-27
+SO-24797,2024-05-24,C10015,ST-DE-1147,Dorfladen Bamberg-Ost,DE,EUR,10,FD-900,Fjord FD-900 display case,4,3150.0,12600.0,Invoiced,2024-08-16
+SO-24797,2024-05-24,C10015,ST-DE-1147,Dorfladen Bamberg-Ost,DE,EUR,20,GC-S,Glacier GC-S cold room,1,10875.0,10875.0,Invoiced,2024-08-16
+SO-24797,2024-05-24,C10015,ST-DE-1147,Dorfladen Bamberg-Ost,DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2024-08-16
+SO-24797,2024-05-24,C10015,ST-DE-1147,Dorfladen Bamberg-Ost,DE,EUR,40,SVC-INST,Installation and commissioning,1,4440.0,4440.0,Invoiced,2024-08-16
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2024-09-19
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,2,72470.0,144940.0,Invoiced,2024-09-19
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,30,FD-900,Fjord FD-900 display case,3,40050.0,120150.0,Invoiced,2024-09-19
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,40,GC-L,Glacier GC-L cold room,1,295580.0,295580.0,Invoiced,2024-09-19
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,50,PR-400,Polar PR-400 compressor rack,2,276510.0,553020.0,Invoiced,2024-09-19
+SO-24904,2024-05-27,C10002,ST-NO-1028,Nordhavn Mega Oslo Bjølsen,NO,NOK,60,SVC-INST,Installation and commissioning,1,188110.0,188110.0,Invoiced,2024-09-19
+SO-24911,2024-05-27,C10009,ST-UK-1105,Albion Fresh Rotherham,UK,GBP,10,FD-900,Fjord FD-900 display case,5,3231.0,16155.0,Invoiced,2024-09-19
+SO-24911,2024-05-27,C10009,ST-UK-1105,Albion Fresh Rotherham,UK,GBP,20,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2024-09-19
+SO-24911,2024-05-27,C10009,ST-UK-1105,Albion Fresh Rotherham,UK,GBP,30,PR-250,Polar PR-250 compressor rack,1,13846.0,13846.0,Invoiced,2024-09-19
+SO-24911,2024-05-27,C10009,ST-UK-1105,Albion Fresh Rotherham,UK,GBP,40,SVC-INST,Installation and commissioning,1,4940.0,4940.0,Invoiced,2024-09-19
+SO-25858,2024-05-29,C10015,,Distributor warehouse,DE,EUR,10,GSK-0900,Door gasket FD-900,5,18.0,90.0,Invoiced,2024-05-29
+SO-25858,2024-05-29,C10015,,Distributor warehouse,DE,EUR,20,PRS-HP-10,High-pressure sensor,12,60.0,720.0,Invoiced,2024-05-29
+SO-25933,2024-05-31,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,9,690.0,6210.0,Invoiced,2024-05-31
+SO-25933,2024-05-31,C10014,,Distributor warehouse,SE,SEK,20,LED-1200,LED light bar 1200,4,870.0,3480.0,Invoiced,2024-05-31
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,10,FD-1200,Fjord FD-1200 display case,5,5231.0,26155.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,4,5846.0,23384.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,30,FD-900,Fjord FD-900 display case,3,3231.0,9693.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,40,GC-L,Glacier GC-L cold room,2,23846.0,47692.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,50,PR-400,Polar PR-400 compressor rack,1,22308.0,22308.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,60,PR-400T,"Polar PR-400T compressor rack, tropical",1,25769.0,25769.0,Invoiced,2024-09-28
+SO-24982,2024-06-04,C10009,ST-UK-1049,Albion Fresh Hull,UK,GBP,70,SVC-INST,Installation and commissioning,1,18600.0,18600.0,Invoiced,2024-09-28
+SO-24997,2024-06-05,C10004,ST-DK-1007,Nordhavn Express København Nørrebro,DK,DKK,10,FD-900,Fjord FD-900 display case,4,26640.0,106560.0,Invoiced,2024-09-29
+SO-24997,2024-06-05,C10004,ST-DK-1007,Nordhavn Express København Nørrebro,DK,DKK,20,PR-250,Polar PR-250 compressor rack,1,114180.0,114180.0,Invoiced,2024-09-29
+SO-24997,2024-06-05,C10004,ST-DK-1007,Nordhavn Express København Nørrebro,DK,DKK,30,SVC-INST,Installation and commissioning,1,26490.0,26490.0,Invoiced,2024-09-29
+SO-25033,2024-06-05,C10007,ST-DE-1035,Kaufring Rosenheim,DE,EUR,10,FD-1200,Fjord FD-1200 display case,6,5848.0,35088.0,Invoiced,2024-10-04
+SO-25033,2024-06-05,C10007,ST-DE-1035,Kaufring Rosenheim,DE,EUR,20,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2024-10-04
+SO-25033,2024-06-05,C10007,ST-DE-1035,Kaufring Rosenheim,DE,EUR,30,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2024-10-04
+SO-25033,2024-06-05,C10007,ST-DE-1035,Kaufring Rosenheim,DE,EUR,40,SVC-INST,Installation and commissioning,1,9470.0,9470.0,Invoiced,2024-10-04
+SO-25056,2024-06-07,C10019,ST-SE-1063,Nordhavn Örebro Väster,SE,SEK,10,FD-1200,Fjord FD-1200 display case,7,65660.0,459620.0,Invoiced,2024-10-09
+SO-25056,2024-06-07,C10019,ST-SE-1063,Nordhavn Örebro Väster,SE,SEK,20,GC-M,Glacier GC-M cold room,1,212410.0,212410.0,Invoiced,2024-10-09
+SO-25056,2024-06-07,C10019,ST-SE-1063,Nordhavn Örebro Väster,SE,SEK,30,PR-400,Polar PR-400 compressor rack,1,280000.0,280000.0,Invoiced,2024-10-09
+SO-25056,2024-06-07,C10019,ST-SE-1063,Nordhavn Örebro Väster,SE,SEK,40,SVC-INST,Installation and commissioning,1,114240.0,114240.0,Invoiced,2024-10-09
+SO-24828,2024-06-13,C10007,ST-DE-1098,Kaufring Erding,DE,EUR,10,FD-900,Fjord FD-900 display case,4,3612.0,14448.0,Invoiced,2024-08-27
+SO-24828,2024-06-13,C10007,ST-DE-1098,Kaufring Erding,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2024-08-27
+SO-24828,2024-06-13,C10007,ST-DE-1098,Kaufring Erding,DE,EUR,30,SVC-INST,Installation and commissioning,1,3590.0,3590.0,Invoiced,2024-08-27
+SO-24858,2024-06-14,C10004,ST-DK-1028,Nordhavn Express Aarhus Trøjborg,DK,DKK,10,FD-900,Fjord FD-900 display case,4,26640.0,106560.0,Invoiced,2024-09-01
+SO-24858,2024-06-14,C10004,ST-DK-1028,Nordhavn Express Aarhus Trøjborg,DK,DKK,20,PR-250,Polar PR-250 compressor rack,1,114180.0,114180.0,Invoiced,2024-09-01
+SO-24858,2024-06-14,C10004,ST-DK-1028,Nordhavn Express Aarhus Trøjborg,DK,DKK,30,SVC-INST,Installation and commissioning,1,26490.0,26490.0,Invoiced,2024-09-01
+SO-24943,2024-06-14,C10011,ST-NL-1056,Hollander Deventer,NL,EUR,10,FD-1200,Fjord FD-1200 display case,4,6256.0,25024.0,Invoiced,2024-09-27
+SO-24943,2024-06-14,C10011,ST-NL-1056,Hollander Deventer,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6992.0,6992.0,Invoiced,2024-09-27
+SO-24943,2024-06-14,C10011,ST-NL-1056,Hollander Deventer,NL,EUR,30,GC-M,Glacier GC-M cold room,1,20240.0,20240.0,Invoiced,2024-09-27
+SO-24943,2024-06-14,C10011,ST-NL-1056,Hollander Deventer,NL,EUR,40,PR-400,Polar PR-400 compressor rack,1,26680.0,26680.0,Invoiced,2024-09-27
+SO-24943,2024-06-14,C10011,ST-NL-1056,Hollander Deventer,NL,EUR,50,SVC-INST,Installation and commissioning,1,9470.0,9470.0,Invoiced,2024-09-27
+SO-24870,2024-06-18,C10002,ST-NO-1056,Nordhavn Trondheim Solsiden,NO,NOK,10,FD-1200,Fjord FD-1200 display case,5,64840.0,324200.0,Invoiced,2024-09-02
+SO-24870,2024-06-18,C10002,ST-NO-1056,Nordhavn Trondheim Solsiden,NO,NOK,20,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2024-09-02
+SO-24870,2024-06-18,C10002,ST-NO-1056,Nordhavn Trondheim Solsiden,NO,NOK,30,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2024-09-02
+SO-24870,2024-06-18,C10002,ST-NO-1056,Nordhavn Trondheim Solsiden,NO,NOK,40,SVC-INST,Installation and commissioning,1,97260.0,97260.0,Invoiced,2024-09-02
+SO-25015,2024-06-27,C10007,ST-DE-1105,Kaufring Freising,DE,EUR,10,FD-1200,Fjord FD-1200 display case,5,5848.0,29240.0,Invoiced,2024-09-29
+SO-25015,2024-06-27,C10007,ST-DE-1105,Kaufring Freising,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6536.0,13072.0,Invoiced,2024-09-29
+SO-25015,2024-06-27,C10007,ST-DE-1105,Kaufring Freising,DE,EUR,30,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2024-09-29
+SO-25015,2024-06-27,C10007,ST-DE-1105,Kaufring Freising,DE,EUR,40,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2024-09-29
+SO-25015,2024-06-27,C10007,ST-DE-1105,Kaufring Freising,DE,EUR,50,SVC-INST,Installation and commissioning,1,9570.0,9570.0,Invoiced,2024-09-29
+SO-25797,2024-06-28,C10015,,Distributor warehouse,DE,EUR,10,EVF-22,Evaporator fan motor,12,128.0,1536.0,Invoiced,2024-06-28
+SO-25797,2024-06-28,C10015,,Distributor warehouse,DE,EUR,20,PRS-HP-10,High-pressure sensor,11,60.0,660.0,Invoiced,2024-06-28
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,10,FD-1200,Fjord FD-1200 display case,7,5780.0,40460.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,4,6460.0,25840.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,30,FD-900,Fjord FD-900 display case,1,3570.0,3570.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,40,GC-L,Glacier GC-L cold room,1,26350.0,26350.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,50,GC-M,Glacier GC-M cold room,1,18700.0,18700.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,60,PR-400,Polar PR-400 compressor rack,2,24650.0,49300.0,Invoiced,2024-10-12
+SO-25074,2024-07-02,C10005,ST-FI-1021,Nordhavn Mega Helsinki Herttoniemi,FI,EUR,70,SVC-INST,Installation and commissioning,1,19710.0,19710.0,Invoiced,2024-10-12
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,10,FD-1200,Fjord FD-1200 display case,7,65660.0,459620.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,2,73380.0,146760.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,30,FD-900,Fjord FD-900 display case,1,40550.0,40550.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,40,GC-L,Glacier GC-L cold room,1,299310.0,299310.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,50,GC-M,Glacier GC-M cold room,1,212410.0,212410.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,60,PR-400,Polar PR-400 compressor rack,1,280000.0,280000.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,70,PR-400T,"Polar PR-400T compressor rack, tropical",1,323450.0,323450.0,Invoiced,2024-09-23
+SO-24916,2024-07-04,C10019,ST-SE-1014,Nordhavn Mega Stockholm Kungsholmen,SE,SEK,80,SVC-INST,Installation and commissioning,1,211450.0,211450.0,Invoiced,2024-09-23
+SO-24949,2024-07-05,C10013,ST-FR-1014,Marché Plus Lille West,FR,EUR,10,FD-900,Fjord FD-900 display case,3,3864.0,11592.0,Invoiced,2024-09-27
+SO-24949,2024-07-05,C10013,ST-FR-1014,Marché Plus Lille West,FR,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2024-09-27
+SO-24949,2024-07-05,C10013,ST-FR-1014,Marché Plus Lille West,FR,EUR,30,SVC-INST,Installation and commissioning,1,3380.0,3380.0,Invoiced,2024-09-27
+SO-25046,2024-07-10,C10009,ST-UK-1091,Albion Fresh Halifax,UK,GBP,10,FD-1200,Fjord FD-1200 display case,7,5231.0,36617.0,Invoiced,2024-10-08
+SO-25046,2024-07-10,C10009,ST-UK-1091,Albion Fresh Halifax,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,2,5846.0,11692.0,Invoiced,2024-10-08
+SO-25046,2024-07-10,C10009,ST-UK-1091,Albion Fresh Halifax,UK,GBP,30,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2024-10-08
+SO-25046,2024-07-10,C10009,ST-UK-1091,Albion Fresh Halifax,UK,GBP,40,PR-400,Polar PR-400 compressor rack,1,22308.0,22308.0,Invoiced,2024-10-08
+SO-25046,2024-07-10,C10009,ST-UK-1091,Albion Fresh Halifax,UK,GBP,50,SVC-INST,Installation and commissioning,1,9810.0,9810.0,Invoiced,2024-10-08
+SO-25080,2024-07-12,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,10,FD-1200,Fjord FD-1200 display case,4,5848.0,23392.0,Invoiced,2024-10-27
+SO-25080,2024-07-12,C10007,ST-DE-1014,Kaufring Augsburg,DE,EUR,20,SVC-INST,Installation and commissioning,1,2810.0,2810.0,Invoiced,2024-10-27
+SO-24964,2024-07-19,C10009,ST-UK-1042,Albion Fresh Sheffield,UK,GBP,10,FD-1200,Fjord FD-1200 display case,7,5231.0,36617.0,Invoiced,2024-09-28
+SO-24964,2024-07-19,C10009,ST-UK-1042,Albion Fresh Sheffield,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,1,5846.0,5846.0,Invoiced,2024-09-28
+SO-24964,2024-07-19,C10009,ST-UK-1042,Albion Fresh Sheffield,UK,GBP,30,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2024-09-28
+SO-24964,2024-07-19,C10009,ST-UK-1042,Albion Fresh Sheffield,UK,GBP,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,25769.0,25769.0,Invoiced,2024-09-28
+SO-24964,2024-07-19,C10009,ST-UK-1042,Albion Fresh Sheffield,UK,GBP,50,SVC-INST,Installation and commissioning,1,9530.0,9530.0,Invoiced,2024-09-28
+SO-25077,2024-07-19,C10008,ST-AT-1021,Kaufring Innsbruck,AT,EUR,10,FD-900,Fjord FD-900 display case,4,3696.0,14784.0,Invoiced,2024-10-18
+SO-25077,2024-07-19,C10008,ST-AT-1021,Kaufring Innsbruck,AT,EUR,20,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2024-10-18
+SO-25077,2024-07-19,C10008,ST-AT-1021,Kaufring Innsbruck,AT,EUR,30,PR-250,Polar PR-250 compressor rack,1,15840.0,15840.0,Invoiced,2024-10-18
+SO-25077,2024-07-19,C10008,ST-AT-1021,Kaufring Innsbruck,AT,EUR,40,SVC-INST,Installation and commissioning,1,5210.0,5210.0,Invoiced,2024-10-18
+SO-25844,2024-09-09,C10015,,Distributor warehouse,DE,EUR,10,LED-1200,LED light bar 1200,12,76.0,912.0,Invoiced,2024-09-09
+SO-25844,2024-09-09,C10015,,Distributor warehouse,DE,EUR,20,EVF-22,Evaporator fan motor,13,128.0,1664.0,Invoiced,2024-09-09
+SO-25097,2024-09-13,C10014,ST-SE-1105,Lanthandel Trelleborg,SE,SEK,10,FD-900,Fjord FD-900 display case,3,36210.0,108630.0,Invoiced,2024-11-29
+SO-25097,2024-09-13,C10014,ST-SE-1105,Lanthandel Trelleborg,SE,SEK,20,GC-S,Glacier GC-S cold room,1,125000.0,125000.0,Invoiced,2024-11-29
+SO-25097,2024-09-13,C10014,ST-SE-1105,Lanthandel Trelleborg,SE,SEK,30,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2024-11-29
+SO-25097,2024-09-13,C10014,ST-SE-1105,Lanthandel Trelleborg,SE,SEK,40,SVC-INST,Installation and commissioning,1,46660.0,46660.0,Invoiced,2024-11-29
+SO-25111,2024-10-01,C10016,ST-NO-1175,Nordhavn Marine Supply Bodø,NO,NOK,10,GC-M,Glacier GC-M cold room,1,235350.0,235350.0,Invoiced,2025-01-25
+SO-25111,2024-10-01,C10016,ST-NO-1175,Nordhavn Marine Supply Bodø,NO,NOK,20,PR-250,Polar PR-250 compressor rack,1,192560.0,192560.0,Invoiced,2025-01-25
+SO-25111,2024-10-01,C10016,ST-NO-1175,Nordhavn Marine Supply Bodø,NO,NOK,30,SVC-INST,Installation and commissioning,1,51350.0,51350.0,Invoiced,2025-01-25
+SO-25122,2024-10-21,C10007,ST-DE-1070,Kaufring Traunstein,DE,EUR,10,FD-1200,Fjord FD-1200 display case,7,5848.0,40936.0,Invoiced,2025-02-11
+SO-25122,2024-10-21,C10007,ST-DE-1070,Kaufring Traunstein,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6536.0,13072.0,Invoiced,2025-02-11
+SO-25122,2024-10-21,C10007,ST-DE-1070,Kaufring Traunstein,DE,EUR,30,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2025-02-11
+SO-25122,2024-10-21,C10007,ST-DE-1070,Kaufring Traunstein,DE,EUR,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,28810.0,28810.0,Invoiced,2025-02-11
+SO-25122,2024-10-21,C10007,ST-DE-1070,Kaufring Traunstein,DE,EUR,50,SVC-INST,Installation and commissioning,1,12210.0,12210.0,Invoiced,2025-02-11
+SO-25117,2024-11-13,C10014,ST-SE-1112,Höörs Livs,SE,SEK,10,FD-900,Fjord FD-900 display case,5,36210.0,181050.0,Invoiced,2025-02-08
+SO-25117,2024-11-13,C10014,ST-SE-1112,Höörs Livs,SE,SEK,20,PR-250,Polar PR-250 compressor rack,1,155170.0,155170.0,Invoiced,2025-02-08
+SO-25117,2024-11-13,C10014,ST-SE-1112,Höörs Livs,SE,SEK,30,SVC-INST,Installation and commissioning,1,40350.0,40350.0,Invoiced,2025-02-08
+SO-25150,2024-11-14,C10015,ST-DE-1140,Frischemarkt Erlangen,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3150.0,9450.0,Invoiced,2025-03-08
+SO-25150,2024-11-14,C10015,ST-DE-1140,Frischemarkt Erlangen,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2025-03-08
+SO-25150,2024-11-14,C10015,ST-DE-1140,Frischemarkt Erlangen,DE,EUR,30,SVC-INST,Installation and commissioning,1,2750.0,2750.0,Invoiced,2025-03-08
+SO-25131,2024-11-26,C10007,ST-DE-1091,Kaufring Mühldorf,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3612.0,10836.0,Invoiced,2025-02-25
+SO-25131,2024-11-26,C10007,ST-DE-1091,Kaufring Mühldorf,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2025-02-25
+SO-25131,2024-11-26,C10007,ST-DE-1091,Kaufring Mühldorf,DE,EUR,30,PR-250,Polar PR-250 compressor rack,1,15480.0,15480.0,Invoiced,2025-02-25
+SO-25131,2024-11-26,C10007,ST-DE-1091,Kaufring Mühldorf,DE,EUR,40,SVC-INST,Installation and commissioning,1,4650.0,4650.0,Invoiced,2025-02-25
+SO-25750,2024-12-05,C10009,ST-UK-1007,Albion Fresh Leeds,UK,GBP,10,FD-1200,Fjord FD-1200 display case,4,4998.0,19992.0,Cancelled,2025-03-10
+SO-25178,2024-12-10,C10002,ST-NO-1154,Nordhavn Bergen Nesttun,NO,NOK,10,FD-1200,Fjord FD-1200 display case,5,64840.0,324200.0,Invoiced,2025-04-07
+SO-25178,2024-12-10,C10002,ST-NO-1154,Nordhavn Bergen Nesttun,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2025-04-07
+SO-25178,2024-12-10,C10002,ST-NO-1154,Nordhavn Bergen Nesttun,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2025-04-07
+SO-25178,2024-12-10,C10002,ST-NO-1154,Nordhavn Bergen Nesttun,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2025-04-07
+SO-25178,2024-12-10,C10002,ST-NO-1154,Nordhavn Bergen Nesttun,NO,NOK,50,SVC-INST,Installation and commissioning,1,105950.0,105950.0,Invoiced,2025-04-07
+SO-25195,2024-12-17,C10002,ST-NO-1119,Nordhavn Bergen Sentrum,NO,NOK,10,FD-1200,Fjord FD-1200 display case,5,64840.0,324200.0,Invoiced,2025-04-13
+SO-25195,2024-12-17,C10002,ST-NO-1119,Nordhavn Bergen Sentrum,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,2,72470.0,144940.0,Invoiced,2025-04-13
+SO-25195,2024-12-17,C10002,ST-NO-1119,Nordhavn Bergen Sentrum,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2025-04-13
+SO-25195,2024-12-17,C10002,ST-NO-1119,Nordhavn Bergen Sentrum,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2025-04-13
+SO-25195,2024-12-17,C10002,ST-NO-1119,Nordhavn Bergen Sentrum,NO,NOK,50,SVC-INST,Installation and commissioning,1,114650.0,114650.0,Invoiced,2025-04-13
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,10,FD-1200,Fjord FD-1200 display case,8,6256.0,50048.0,Invoiced,2025-04-19
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,3,6992.0,20976.0,Invoiced,2025-04-19
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,30,FD-900,Fjord FD-900 display case,2,3864.0,7728.0,Invoiced,2025-04-19
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,40,GC-L,Glacier GC-L cold room,1,28520.0,28520.0,Invoiced,2025-04-19
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,50,PR-600,Polar PR-600 compressor rack,1,42320.0,42320.0,Invoiced,2025-04-19
+SO-25222,2024-12-19,C10011,ST-NL-1070,Hollander Zeist,NL,EUR,60,SVC-INST,Installation and commissioning,1,17950.0,17950.0,Invoiced,2025-04-19
+SO-25144,2024-12-20,C10013,ST-FR-1035,Marché Plus Arras,FR,EUR,10,FD-900,Fjord FD-900 display case,5,3864.0,19320.0,Invoiced,2025-03-07
+SO-25144,2024-12-20,C10013,ST-FR-1035,Marché Plus Arras,FR,EUR,20,GC-S,Glacier GC-S cold room,1,13340.0,13340.0,Invoiced,2025-03-07
+SO-25144,2024-12-20,C10013,ST-FR-1035,Marché Plus Arras,FR,EUR,30,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2025-03-07
+SO-25144,2024-12-20,C10013,ST-FR-1035,Marché Plus Arras,FR,EUR,40,SVC-INST,Installation and commissioning,1,5910.0,5910.0,Invoiced,2025-03-07
+SO-25184,2024-12-24,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,10,FD-1200,Fjord FD-1200 display case,2,5984.0,11968.0,Invoiced,2025-04-08
+SO-25184,2024-12-24,C10008,ST-AT-1028,Kaufring Wels,AT,EUR,20,SVC-INST,Installation and commissioning,1,1440.0,1440.0,Invoiced,2025-04-08
+SO-25213,2024-12-27,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,10,FD-1200,Fjord FD-1200 display case,3,43130.0,129390.0,Invoiced,2025-04-14
+SO-25213,2024-12-27,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,20,FD-1200L,Fjord FD-1200L low-front display case,1,48210.0,48210.0,Invoiced,2025-04-14
+SO-25213,2024-12-27,C10004,ST-DK-1014,Nordhavn København Valby,DK,DKK,30,SVC-INST,Installation and commissioning,1,21310.0,21310.0,Invoiced,2025-04-14
+SO-25248,2025-01-03,C10002,ST-NO-1126,Nordhavn Bergen Bryggen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,4,64840.0,259360.0,Invoiced,2025-04-23
+SO-25248,2025-01-03,C10002,ST-NO-1126,Nordhavn Bergen Bryggen,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,2,72470.0,144940.0,Invoiced,2025-04-23
+SO-25248,2025-01-03,C10002,ST-NO-1126,Nordhavn Bergen Bryggen,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2025-04-23
+SO-25248,2025-01-03,C10002,ST-NO-1126,Nordhavn Bergen Bryggen,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2025-04-23
+SO-25248,2025-01-03,C10002,ST-NO-1126,Nordhavn Bergen Bryggen,NO,NOK,50,SVC-INST,Installation and commissioning,1,106870.0,106870.0,Invoiced,2025-04-23
+SO-25165,2025-01-10,C10019,ST-SE-1042,Nordhavn Malmö Möllan,SE,SEK,10,FD-1200,Fjord FD-1200 display case,6,65660.0,393960.0,Invoiced,2025-04-01
+SO-25165,2025-01-10,C10019,ST-SE-1042,Nordhavn Malmö Möllan,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,1,73380.0,73380.0,Invoiced,2025-04-01
+SO-25165,2025-01-10,C10019,ST-SE-1042,Nordhavn Malmö Möllan,SE,SEK,30,GC-S,Glacier GC-S cold room,1,140000.0,140000.0,Invoiced,2025-04-01
+SO-25165,2025-01-10,C10019,ST-SE-1042,Nordhavn Malmö Möllan,SE,SEK,40,PR-400,Polar PR-400 compressor rack,1,280000.0,280000.0,Invoiced,2025-04-01
+SO-25165,2025-01-10,C10019,ST-SE-1042,Nordhavn Malmö Möllan,SE,SEK,50,SVC-INST,Installation and commissioning,1,106480.0,106480.0,Invoiced,2025-04-01
+SO-25282,2025-01-14,C10019,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,10,FD-1200,Fjord FD-1200 display case,2,65660.0,131320.0,Invoiced,2025-04-30
+SO-25282,2025-01-14,C10019,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,1,73380.0,73380.0,Invoiced,2025-04-30
+SO-25282,2025-01-14,C10019,ST-SE-1021,Nordhavn Stockholm Bromma,SE,SEK,30,SVC-INST,Installation and commissioning,1,24560.0,24560.0,Invoiced,2025-04-30
+SO-25240,2025-01-15,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,10,FD-1200,Fjord FD-1200 display case,4,43130.0,172520.0,Invoiced,2025-04-22
+SO-25240,2025-01-15,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,20,FD-1200L,Fjord FD-1200L low-front display case,1,48210.0,48210.0,Invoiced,2025-04-22
+SO-25240,2025-01-15,C10004,ST-DK-1021,Nordhavn København Amager,DK,DKK,30,SVC-INST,Installation and commissioning,1,26490.0,26490.0,Invoiced,2025-04-22
+SO-25316,2025-01-16,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,2,156400.0,312800.0,Invoiced,2025-05-15
+SO-25316,2025-01-16,C10012,ST-CZ-1035,Vltava Olomouc,CZ,CZK,20,SVC-INST,Installation and commissioning,1,37540.0,37540.0,Invoiced,2025-05-15
+SO-25285,2025-01-17,C10005,ST-FI-1007,Nordhavn Express Helsinki Kallio,FI,EUR,10,FD-900,Fjord FD-900 display case,4,3570.0,14280.0,Invoiced,2025-05-04
+SO-25285,2025-01-17,C10005,ST-FI-1007,Nordhavn Express Helsinki Kallio,FI,EUR,20,GC-S,Glacier GC-S cold room,1,12325.0,12325.0,Invoiced,2025-05-04
+SO-25285,2025-01-17,C10005,ST-FI-1007,Nordhavn Express Helsinki Kallio,FI,EUR,30,PR-250,Polar PR-250 compressor rack,1,15300.0,15300.0,Invoiced,2025-05-04
+SO-25285,2025-01-17,C10005,ST-FI-1007,Nordhavn Express Helsinki Kallio,FI,EUR,40,SVC-INST,Installation and commissioning,1,5030.0,5030.0,Invoiced,2025-05-04
+SO-25324,2025-01-27,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,10,FD-1200,Fjord FD-1200 display case,4,6256.0,25024.0,Invoiced,2025-05-29
+SO-25324,2025-01-27,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6992.0,6992.0,Invoiced,2025-05-29
+SO-25324,2025-01-27,C10013,ST-FR-1063,Marché Plus Roubaix,FR,EUR,30,SVC-INST,Installation and commissioning,1,3840.0,3840.0,Invoiced,2025-05-29
+SO-25310,2025-02-06,C10002,ST-NO-1133,Nordhavn Bergen Fana,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2025-05-15
+SO-25310,2025-02-06,C10002,ST-NO-1133,Nordhavn Bergen Fana,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2025-05-15
+SO-25310,2025-02-06,C10002,ST-NO-1133,Nordhavn Bergen Fana,NO,NOK,30,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2025-05-15
+SO-25310,2025-02-06,C10002,ST-NO-1133,Nordhavn Bergen Fana,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2025-05-15
+SO-25310,2025-02-06,C10002,ST-NO-1133,Nordhavn Bergen Fana,NO,NOK,50,SVC-INST,Installation and commissioning,1,105150.0,105150.0,Invoiced,2025-05-15
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,4,72470.0,289880.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,30,FD-900,Fjord FD-900 display case,2,40050.0,80100.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,40,GC-L,Glacier GC-L cold room,1,295580.0,295580.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,50,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,60,PR-600,Polar PR-600 compressor rack,1,438600.0,438600.0,Invoiced,2025-04-29
+SO-25264,2025-02-07,C10002,ST-NO-1140,Nordhavn Mega Bergen Åsane,NO,NOK,70,SVC-INST,Installation and commissioning,1,204360.0,204360.0,Invoiced,2025-04-29
+SO-25399,2025-02-13,C10005,ST-FI-1035,Nordhavn Tampere Hervanta,FI,EUR,10,FD-1200,Fjord FD-1200 display case,7,5780.0,40460.0,Invoiced,2025-06-19
+SO-25399,2025-02-13,C10005,ST-FI-1035,Nordhavn Tampere Hervanta,FI,EUR,20,GC-M,Glacier GC-M cold room,1,18700.0,18700.0,Invoiced,2025-06-19
+SO-25399,2025-02-13,C10005,ST-FI-1035,Nordhavn Tampere Hervanta,FI,EUR,30,PR-400,Polar PR-400 compressor rack,1,24650.0,24650.0,Invoiced,2025-06-19
+SO-25399,2025-02-13,C10005,ST-FI-1035,Nordhavn Tampere Hervanta,FI,EUR,40,SVC-INST,Installation and commissioning,1,10060.0,10060.0,Invoiced,2025-06-19
+SO-25297,2025-02-21,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,3,156400.0,469200.0,Invoiced,2025-05-05
+SO-25297,2025-02-21,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,20,FD-1200L,Fjord FD-1200L low-front display case,1,174800.0,174800.0,Invoiced,2025-05-05
+SO-25297,2025-02-21,C10012,ST-CZ-1028,Vltava Plzeň,CZ,CZK,30,SVC-INST,Installation and commissioning,1,77280.0,77280.0,Invoiced,2025-05-05
+SO-25375,2025-02-21,C10004,ST-DK-1035,Nordhavn Aarhus Viby,DK,DKK,10,FD-1200,Fjord FD-1200 display case,4,43130.0,172520.0,Invoiced,2025-06-12
+SO-25375,2025-02-21,C10004,ST-DK-1035,Nordhavn Aarhus Viby,DK,DKK,20,FD-1200L,Fjord FD-1200L low-front display case,1,48210.0,48210.0,Invoiced,2025-06-12
+SO-25375,2025-02-21,C10004,ST-DK-1035,Nordhavn Aarhus Viby,DK,DKK,30,GC-M,Glacier GC-M cold room,1,139550.0,139550.0,Invoiced,2025-06-12
+SO-25375,2025-02-21,C10004,ST-DK-1035,Nordhavn Aarhus Viby,DK,DKK,40,PR-400,Polar PR-400 compressor rack,1,183960.0,183960.0,Invoiced,2025-06-12
+SO-25375,2025-02-21,C10004,ST-DK-1035,Nordhavn Aarhus Viby,DK,DKK,50,SVC-INST,Installation and commissioning,1,65310.0,65310.0,Invoiced,2025-06-12
+SO-25321,2025-02-28,C10002,ST-NO-1147,Nordhavn Bergen Laksevåg,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2025-05-25
+SO-25321,2025-02-28,C10002,ST-NO-1147,Nordhavn Bergen Laksevåg,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2025-05-25
+SO-25321,2025-02-28,C10002,ST-NO-1147,Nordhavn Bergen Laksevåg,NO,NOK,30,GC-S,Glacier GC-S cold room,1,138260.0,138260.0,Invoiced,2025-05-25
+SO-25321,2025-02-28,C10002,ST-NO-1147,Nordhavn Bergen Laksevåg,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2025-05-25
+SO-25321,2025-02-28,C10002,ST-NO-1147,Nordhavn Bergen Laksevåg,NO,NOK,50,SVC-INST,Installation and commissioning,1,112930.0,112930.0,Invoiced,2025-05-25
+SO-25332,2025-02-28,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,10,FD-1200,Fjord FD-1200 display case,4,5231.0,20924.0,Invoiced,2025-06-01
+SO-25332,2025-02-28,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,20,FD-1200L,Fjord FD-1200L low-front display case,1,5846.0,5846.0,Invoiced,2025-06-01
+SO-25332,2025-02-28,C10009,ST-UK-1021,Albion Fresh Manchester,UK,GBP,30,SVC-INST,Installation and commissioning,1,3210.0,3210.0,Invoiced,2025-06-01
+SO-25385,2025-03-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,10,FD-1200,Fjord FD-1200 display case,3,6256.0,18768.0,Invoiced,2025-06-15
+SO-25385,2025-03-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6992.0,6992.0,Invoiced,2025-06-15
+SO-25385,2025-03-03,C10011,ST-NL-1063,Hollander Ede,NL,EUR,30,SVC-INST,Installation and commissioning,1,3090.0,3090.0,Invoiced,2025-06-15
+SO-25359,2025-03-06,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,10,FD-1200,Fjord FD-1200 display case,3,64840.0,194520.0,Invoiced,2025-06-07
+SO-25359,2025-03-06,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2025-06-07
+SO-25359,2025-03-06,C10002,ST-NO-1021,Nordhavn Oslo Storo,NO,NOK,30,SVC-INST,Installation and commissioning,1,32040.0,32040.0,Invoiced,2025-06-07
+SO-25342,2025-03-11,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,10,FD-1200,Fjord FD-1200 display case,2,5231.0,10462.0,Invoiced,2025-06-05
+SO-25342,2025-03-11,C10009,ST-UK-1014,Albion Fresh Leeds West,UK,GBP,20,SVC-INST,Installation and commissioning,1,1260.0,1260.0,Invoiced,2025-06-05
+SO-25450,2025-03-14,C10013,ST-FR-1070,Marché Plus Dunkerque,FR,EUR,10,FD-900,Fjord FD-900 display case,4,3864.0,15456.0,Invoiced,2025-07-19
+SO-25450,2025-03-14,C10013,ST-FR-1070,Marché Plus Dunkerque,FR,EUR,20,GC-S,Glacier GC-S cold room,1,13340.0,13340.0,Invoiced,2025-07-19
+SO-25450,2025-03-14,C10013,ST-FR-1070,Marché Plus Dunkerque,FR,EUR,30,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2025-07-19
+SO-25450,2025-03-14,C10013,ST-FR-1070,Marché Plus Dunkerque,FR,EUR,40,SVC-INST,Installation and commissioning,1,5440.0,5440.0,Invoiced,2025-07-19
+SO-25432,2025-03-17,C10007,ST-DE-1007,Kaufring München,DE,EUR,10,FD-1200,Fjord FD-1200 display case,7,5848.0,40936.0,Invoiced,2025-07-14
+SO-25432,2025-03-17,C10007,ST-DE-1007,Kaufring München,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,1,6536.0,6536.0,Invoiced,2025-07-14
+SO-25432,2025-03-17,C10007,ST-DE-1007,Kaufring München,DE,EUR,30,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2025-07-14
+SO-25432,2025-03-17,C10007,ST-DE-1007,Kaufring München,DE,EUR,40,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2025-07-14
+SO-25432,2025-03-17,C10007,ST-DE-1007,Kaufring München,DE,EUR,50,SVC-INST,Installation and commissioning,1,10960.0,10960.0,Invoiced,2025-07-14
+SO-25853,2025-03-19,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,6,200.0,1200.0,Invoiced,2025-03-19
+SO-25853,2025-03-19,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,11,1470.0,16170.0,Invoiced,2025-03-19
+SO-25463,2025-03-26,C10007,ST-DE-1112,Kaufring Garmisch-Partenkirchen,DE,EUR,10,FD-1200,Fjord FD-1200 display case,6,5848.0,35088.0,Invoiced,2025-08-03
+SO-25463,2025-03-26,C10007,ST-DE-1112,Kaufring Garmisch-Partenkirchen,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Invoiced,2025-08-03
+SO-25463,2025-03-26,C10007,ST-DE-1112,Kaufring Garmisch-Partenkirchen,DE,EUR,30,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2025-08-03
+SO-25463,2025-03-26,C10007,ST-DE-1112,Kaufring Garmisch-Partenkirchen,DE,EUR,40,SVC-INST,Installation and commissioning,1,8700.0,8700.0,Invoiced,2025-08-03
+SO-25402,2025-04-14,C10010,ST-PL-1028,Zielony Koszyk Wrocław West,PL,PLN,10,FD-1200,Fjord FD-1200 display case,5,26850.0,134250.0,Invoiced,2025-07-07
+SO-25402,2025-04-14,C10010,ST-PL-1028,Zielony Koszyk Wrocław West,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,2,30010.0,60020.0,Invoiced,2025-07-07
+SO-25402,2025-04-14,C10010,ST-PL-1028,Zielony Koszyk Wrocław West,PL,PLN,30,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2025-07-07
+SO-25402,2025-04-14,C10010,ST-PL-1028,Zielony Koszyk Wrocław West,PL,PLN,40,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2025-07-07
+SO-25402,2025-04-14,C10010,ST-PL-1028,Zielony Koszyk Wrocław West,PL,PLN,50,SVC-INST,Installation and commissioning,1,47480.0,47480.0,Invoiced,2025-07-07
+SO-25417,2025-05-01,C10008,ST-AT-1007,Kaufring Salzburg,AT,EUR,10,FD-900,Fjord FD-900 display case,3,3696.0,11088.0,Invoiced,2025-07-11
+SO-25417,2025-05-01,C10008,ST-AT-1007,Kaufring Salzburg,AT,EUR,20,GC-S,Glacier GC-S cold room,1,12760.0,12760.0,Invoiced,2025-07-11
+SO-25417,2025-05-01,C10008,ST-AT-1007,Kaufring Salzburg,AT,EUR,30,PR-250,Polar PR-250 compressor rack,1,15840.0,15840.0,Invoiced,2025-07-11
+SO-25417,2025-05-01,C10008,ST-AT-1007,Kaufring Salzburg,AT,EUR,40,SVC-INST,Installation and commissioning,1,4760.0,4760.0,Invoiced,2025-07-11
+SO-25467,2025-05-15,C10010,ST-PL-1049,Zielony Koszyk Gniezno,PL,PLN,10,FD-1200,Fjord FD-1200 display case,7,26850.0,187950.0,Invoiced,2025-08-05
+SO-25467,2025-05-15,C10010,ST-PL-1049,Zielony Koszyk Gniezno,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,1,30010.0,30010.0,Invoiced,2025-08-05
+SO-25467,2025-05-15,C10010,ST-PL-1049,Zielony Koszyk Gniezno,PL,PLN,30,GC-S,Glacier GC-S cold room,1,57250.0,57250.0,Invoiced,2025-08-05
+SO-25467,2025-05-15,C10010,ST-PL-1049,Zielony Koszyk Gniezno,PL,PLN,40,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2025-08-05
+SO-25467,2025-05-15,C10010,ST-PL-1049,Zielony Koszyk Gniezno,PL,PLN,50,SVC-INST,Installation and commissioning,1,46770.0,46770.0,Invoiced,2025-08-05
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,10,FD-1200,Fjord FD-1200 display case,8,64840.0,518720.0,Invoiced,2025-08-15
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,3,72470.0,217410.0,Invoiced,2025-08-15
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,30,FD-900,Fjord FD-900 display case,3,40050.0,120150.0,Invoiced,2025-08-15
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,40,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2025-08-15
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,50,PR-600,Polar PR-600 compressor rack,1,438600.0,438600.0,Invoiced,2025-08-15
+SO-25474,2025-05-16,C10002,ST-NO-1098,Nordhavn Mega Drammen Bragernes,NO,NOK,60,SVC-INST,Installation and commissioning,1,180560.0,180560.0,Invoiced,2025-08-15
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,10,FD-1200,Fjord FD-1200 display case,7,64840.0,453880.0,Invoiced,2025-09-24
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,4,72470.0,289880.0,Invoiced,2025-09-24
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,30,FD-900,Fjord FD-900 display case,3,40050.0,120150.0,Invoiced,2025-09-24
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,40,GC-L,Glacier GC-L cold room,2,295580.0,591160.0,Invoiced,2025-09-24
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,50,PR-600,Polar PR-600 compressor rack,1,438600.0,438600.0,Invoiced,2025-09-24
+SO-25493,2025-05-16,C10002,ST-NO-1091,Nordhavn Mega Tromsø Sentrum,NO,NOK,60,SVC-INST,Installation and commissioning,1,227240.0,227240.0,Invoiced,2025-09-24
+SO-25752,2025-05-23,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",16,1200.0,19200.0,Invoiced,2025-05-23
+SO-25752,2025-05-23,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,16,1470.0,23520.0,Invoiced,2025-05-23
+SO-25789,2025-06-06,C10014,,Distributor warehouse,SE,SEK,10,LED-1200,LED light bar 1200,19,870.0,16530.0,Invoiced,2025-06-06
+SO-25789,2025-06-06,C10014,,Distributor warehouse,SE,SEK,20,HTR-GC-1,"Door heater, cold room",3,1200.0,3600.0,Invoiced,2025-06-06
+SO-25480,2025-06-10,C10015,ST-DE-1175,Frischecenter Weiden,DE,EUR,10,FD-900,Fjord FD-900 display case,3,3150.0,9450.0,Invoiced,2025-09-03
+SO-25480,2025-06-10,C10015,ST-DE-1175,Frischecenter Weiden,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2025-09-03
+SO-25480,2025-06-10,C10015,ST-DE-1175,Frischecenter Weiden,DE,EUR,30,SVC-INST,Installation and commissioning,1,2750.0,2750.0,Invoiced,2025-09-03
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,10,FD-1200,Fjord FD-1200 display case,6,26850.0,161100.0,Invoiced,2025-09-28
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,2,30010.0,60020.0,Invoiced,2025-09-28
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,30,FD-900,Fjord FD-900 display case,1,16580.0,16580.0,Invoiced,2025-09-28
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,40,GC-L,Glacier GC-L cold room,2,122400.0,244800.0,Invoiced,2025-09-28
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,50,PR-600,Polar PR-600 compressor rack,1,181630.0,181630.0,Invoiced,2025-09-28
+SO-25501,2025-06-13,C10010,ST-PL-1042,Zielony Koszyk Gdańsk,PL,PLN,60,SVC-INST,Installation and commissioning,1,79700.0,79700.0,Invoiced,2025-09-28
+SO-25546,2025-07-04,C10010,ST-PL-1021,Zielony Koszyk Wrocław,PL,PLN,10,FD-1200,Fjord FD-1200 display case,5,26850.0,134250.0,Invoiced,2025-11-03
+SO-25546,2025-07-04,C10010,ST-PL-1021,Zielony Koszyk Wrocław,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,1,30010.0,30010.0,Invoiced,2025-11-03
+SO-25546,2025-07-04,C10010,ST-PL-1021,Zielony Koszyk Wrocław,PL,PLN,30,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2025-11-03
+SO-25546,2025-07-04,C10010,ST-PL-1021,Zielony Koszyk Wrocław,PL,PLN,40,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2025-11-03
+SO-25546,2025-07-04,C10010,ST-PL-1021,Zielony Koszyk Wrocław,PL,PLN,50,SVC-INST,Installation and commissioning,1,43880.0,43880.0,Invoiced,2025-11-03
+SO-25518,2025-07-21,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,10,FD-1200,Fjord FD-1200 display case,5,65660.0,328300.0,Invoiced,2025-10-05
+SO-25518,2025-07-21,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,20,FD-1200L,Fjord FD-1200L low-front display case,2,73380.0,146760.0,Invoiced,2025-10-05
+SO-25518,2025-07-21,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,30,GC-M,Glacier GC-M cold room,1,212410.0,212410.0,Invoiced,2025-10-05
+SO-25518,2025-07-21,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,40,PR-400,Polar PR-400 compressor rack,1,280000.0,280000.0,Invoiced,2025-10-05
+SO-25518,2025-07-21,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,50,SVC-INST,Installation and commissioning,1,116100.0,116100.0,Invoiced,2025-10-05
+SO-25728,2025-07-31,C10004,ST-DK-1007,Nordhavn Express København Nørrebro,DK,DKK,10,FD-1200,Fjord FD-1200 display case,5,43640.0,218200.0,Cancelled,2025-11-03
+SO-25559,2025-08-01,C10010,ST-PL-1014,Zielony Koszyk Poznań West,PL,PLN,10,FD-900,Fjord FD-900 display case,4,16580.0,66320.0,Invoiced,2025-11-25
+SO-25559,2025-08-01,C10010,ST-PL-1014,Zielony Koszyk Poznań West,PL,PLN,20,PR-250,Polar PR-250 compressor rack,1,71070.0,71070.0,Invoiced,2025-11-25
+SO-25559,2025-08-01,C10010,ST-PL-1014,Zielony Koszyk Poznań West,PL,PLN,30,SVC-INST,Installation and commissioning,1,16490.0,16490.0,Invoiced,2025-11-25
+SO-25804,2025-08-01,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,18,690.0,12420.0,Invoiced,2025-08-01
+SO-25804,2025-08-01,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,8,1470.0,11760.0,Invoiced,2025-08-01
+SO-25531,2025-08-05,C10009,ST-UK-1077,Albion Fresh Doncaster,UK,GBP,10,FD-900,Fjord FD-900 display case,5,3231.0,16155.0,Invoiced,2025-10-17
+SO-25531,2025-08-05,C10009,ST-UK-1077,Albion Fresh Doncaster,UK,GBP,20,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2025-10-17
+SO-25531,2025-08-05,C10009,ST-UK-1077,Albion Fresh Doncaster,UK,GBP,30,PR-250,Polar PR-250 compressor rack,1,13846.0,13846.0,Invoiced,2025-10-17
+SO-25531,2025-08-05,C10009,ST-UK-1077,Albion Fresh Doncaster,UK,GBP,40,SVC-INST,Installation and commissioning,1,4940.0,4940.0,Invoiced,2025-10-17
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,8,156400.0,1251200.0,Invoiced,2025-11-07
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,20,FD-1200L,Fjord FD-1200L low-front display case,3,174800.0,524400.0,Invoiced,2025-11-07
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,30,FD-900,Fjord FD-900 display case,2,96600.0,193200.0,Invoiced,2025-11-07
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,40,GC-M,Glacier GC-M cold room,1,506000.0,506000.0,Invoiced,2025-11-07
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,50,PR-600,Polar PR-600 compressor rack,1,1058000.0,1058000.0,Invoiced,2025-11-07
+SO-25553,2025-08-08,C10012,ST-CZ-1056,Vltava Jihlava,CZ,CZK,60,SVC-INST,Installation and commissioning,1,423940.0,423940.0,Invoiced,2025-11-07
+SO-25770,2025-08-29,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",19,1200.0,22800.0,Invoiced,2025-08-29
+SO-25770,2025-08-29,C10014,,Distributor warehouse,SE,SEK,20,LED-1200,LED light bar 1200,19,870.0,16530.0,Invoiced,2025-08-29
+SO-25568,2025-09-09,C10013,ST-FR-1021,Marché Plus Amiens,FR,EUR,10,FD-1200,Fjord FD-1200 display case,7,6256.0,43792.0,Invoiced,2025-12-08
+SO-25568,2025-09-09,C10013,ST-FR-1021,Marché Plus Amiens,FR,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6992.0,13984.0,Invoiced,2025-12-08
+SO-25568,2025-09-09,C10013,ST-FR-1021,Marché Plus Amiens,FR,EUR,30,GC-M,Glacier GC-M cold room,1,20240.0,20240.0,Invoiced,2025-12-08
+SO-25568,2025-09-09,C10013,ST-FR-1021,Marché Plus Amiens,FR,EUR,40,PR-400,Polar PR-400 compressor rack,1,26680.0,26680.0,Invoiced,2025-12-08
+SO-25568,2025-09-09,C10013,ST-FR-1021,Marché Plus Amiens,FR,EUR,50,SVC-INST,Installation and commissioning,1,12560.0,12560.0,Invoiced,2025-12-08
+SO-25761,2025-09-10,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",8,1200.0,9600.0,Invoiced,2025-09-10
+SO-25761,2025-09-10,C10014,,Distributor warehouse,SE,SEK,20,PRS-HP-10,High-pressure sensor,16,690.0,11040.0,Invoiced,2025-09-10
+SO-25601,2025-10-30,C10012,ST-CZ-1021,Vltava Brno,CZ,CZK,10,FD-1200,Fjord FD-1200 display case,6,156400.0,938400.0,Invoiced,2026-03-03
+SO-25601,2025-10-30,C10012,ST-CZ-1021,Vltava Brno,CZ,CZK,20,FD-1200L,Fjord FD-1200L low-front display case,1,174800.0,174800.0,Invoiced,2026-03-03
+SO-25601,2025-10-30,C10012,ST-CZ-1021,Vltava Brno,CZ,CZK,30,GC-S,Glacier GC-S cold room,1,333500.0,333500.0,Invoiced,2026-03-03
+SO-25601,2025-10-30,C10012,ST-CZ-1021,Vltava Brno,CZ,CZK,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,770500.0,770500.0,Invoiced,2026-03-03
+SO-25601,2025-10-30,C10012,ST-CZ-1021,Vltava Brno,CZ,CZK,50,SVC-INST,Installation and commissioning,1,266060.0,266060.0,Invoiced,2026-03-03
+SO-25890,2025-11-03,C10014,,Distributor warehouse,SE,SEK,10,LED-1200,LED light bar 1200,20,870.0,17400.0,Invoiced,2025-11-03
+SO-25890,2025-11-03,C10014,,Distributor warehouse,SE,SEK,20,GSK-0900,Door gasket FD-900,12,200.0,2400.0,Invoiced,2025-11-03
+SO-25584,2025-11-13,C10015,ST-DE-1161,Biomarkt Ansbach,DE,EUR,10,FD-900,Fjord FD-900 display case,5,3150.0,15750.0,Invoiced,2026-02-22
+SO-25584,2025-11-13,C10015,ST-DE-1161,Biomarkt Ansbach,DE,EUR,20,PR-250,Polar PR-250 compressor rack,1,13500.0,13500.0,Invoiced,2026-02-22
+SO-25584,2025-11-13,C10015,ST-DE-1161,Biomarkt Ansbach,DE,EUR,30,SVC-INST,Installation and commissioning,1,3510.0,3510.0,Invoiced,2026-02-22
+SO-25623,2026-01-26,C10010,ST-PL-1070,Zielony Koszyk Piła,PL,PLN,10,FD-1200,Fjord FD-1200 display case,6,26850.0,161100.0,Invoiced,2026-04-28
+SO-25623,2026-01-26,C10010,ST-PL-1070,Zielony Koszyk Piła,PL,PLN,20,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2026-04-28
+SO-25623,2026-01-26,C10010,ST-PL-1070,Zielony Koszyk Piła,PL,PLN,30,PR-400T,"Polar PR-400T compressor rack, tropical",1,132270.0,132270.0,Invoiced,2026-04-28
+SO-25623,2026-01-26,C10010,ST-PL-1070,Zielony Koszyk Piła,PL,PLN,40,SVC-INST,Installation and commissioning,1,45630.0,45630.0,Invoiced,2026-04-28
+SO-25952,2026-01-28,C10014,,Distributor warehouse,SE,SEK,10,HTR-GC-1,"Door heater, cold room",9,1200.0,10800.0,Invoiced,2026-01-28
+SO-25952,2026-01-28,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,10,1470.0,14700.0,Invoiced,2026-01-28
+SO-25780,2026-01-30,C10014,,Distributor warehouse,SE,SEK,10,LED-1200,LED light bar 1200,10,870.0,8700.0,Invoiced,2026-01-30
+SO-25780,2026-01-30,C10014,,Distributor warehouse,SE,SEK,20,PRS-HP-10,High-pressure sensor,18,690.0,12420.0,Invoiced,2026-01-30
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,64840.0,389040.0,Invoiced,2026-04-27
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,3,72470.0,217410.0,Invoiced,2026-04-27
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,30,FD-900,Fjord FD-900 display case,1,40050.0,40050.0,Invoiced,2026-04-27
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,40,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2026-04-27
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,50,PR-600,Polar PR-600 compressor rack,1,438600.0,438600.0,Invoiced,2026-04-27
+SO-25609,2026-02-09,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,60,SVC-INST,Installation and commissioning,1,155380.0,155380.0,Invoiced,2026-04-27
+SO-25634,2026-02-10,C10011,ST-NL-1021,Hollander Amersfoort,NL,EUR,10,FD-900,Fjord FD-900 display case,5,3864.0,19320.0,Invoiced,2026-06-20
+SO-25634,2026-02-10,C10011,ST-NL-1021,Hollander Amersfoort,NL,EUR,20,PR-250,Polar PR-250 compressor rack,1,16560.0,16560.0,Invoiced,2026-06-20
+SO-25634,2026-02-10,C10011,ST-NL-1021,Hollander Amersfoort,NL,EUR,30,SVC-INST,Installation and commissioning,1,4310.0,4310.0,Invoiced,2026-06-20
+SO-25831,2026-02-12,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,19,200.0,3800.0,Invoiced,2026-02-12
+SO-25831,2026-02-12,C10014,,Distributor warehouse,SE,SEK,20,PRS-HP-10,High-pressure sensor,3,690.0,2070.0,Invoiced,2026-02-12
+SO-25643,2026-02-20,C10019,ST-SE-1028,Nordhavn Göteborg Majorna,SE,SEK,10,FD-1200,Fjord FD-1200 display case,7,65660.0,459620.0,Invoiced,2026-06-21
+SO-25643,2026-02-20,C10019,ST-SE-1028,Nordhavn Göteborg Majorna,SE,SEK,20,GC-S,Glacier GC-S cold room,1,140000.0,140000.0,Invoiced,2026-06-21
+SO-25643,2026-02-20,C10019,ST-SE-1028,Nordhavn Göteborg Majorna,SE,SEK,30,PR-400T,"Polar PR-400T compressor rack, tropical",1,323450.0,323450.0,Invoiced,2026-06-21
+SO-25643,2026-02-20,C10019,ST-SE-1028,Nordhavn Göteborg Majorna,SE,SEK,40,SVC-INST,Installation and commissioning,1,110770.0,110770.0,Invoiced,2026-06-21
+SO-25655,2026-02-27,C10010,ST-PL-1056,Zielony Koszyk Leszno,PL,PLN,10,FD-1200,Fjord FD-1200 display case,6,26850.0,161100.0,Invoiced,2026-06-21
+SO-25655,2026-02-27,C10010,ST-PL-1056,Zielony Koszyk Leszno,PL,PLN,20,FD-1200L,Fjord FD-1200L low-front display case,2,30010.0,60020.0,Invoiced,2026-06-21
+SO-25655,2026-02-27,C10010,ST-PL-1056,Zielony Koszyk Leszno,PL,PLN,30,GC-M,Glacier GC-M cold room,1,86870.0,86870.0,Invoiced,2026-06-21
+SO-25655,2026-02-27,C10010,ST-PL-1056,Zielony Koszyk Leszno,PL,PLN,40,PR-400T,"Polar PR-400T compressor rack, tropical",1,132270.0,132270.0,Invoiced,2026-06-21
+SO-25655,2026-02-27,C10010,ST-PL-1056,Zielony Koszyk Leszno,PL,PLN,50,SVC-INST,Installation and commissioning,1,52830.0,52830.0,Invoiced,2026-06-21
+SO-25774,2026-03-11,C10015,,Distributor warehouse,DE,EUR,10,HTR-GC-1,"Door heater, cold room",5,104.0,520.0,Invoiced,2026-03-11
+SO-25774,2026-03-11,C10015,,Distributor warehouse,DE,EUR,20,GSK-0900,Door gasket FD-900,5,18.0,90.0,Invoiced,2026-03-11
+SO-25626,2026-04-06,C10010,ST-PL-1063,Zielony Koszyk Kalisz,PL,PLN,10,FD-1200,Fjord FD-1200 display case,6,26850.0,161100.0,Invoiced,2026-06-16
+SO-25626,2026-04-06,C10010,ST-PL-1063,Zielony Koszyk Kalisz,PL,PLN,20,GC-S,Glacier GC-S cold room,1,57250.0,57250.0,Invoiced,2026-06-16
+SO-25626,2026-04-06,C10010,ST-PL-1063,Zielony Koszyk Kalisz,PL,PLN,30,PR-400,Polar PR-400 compressor rack,1,114510.0,114510.0,Invoiced,2026-06-16
+SO-25626,2026-04-06,C10010,ST-PL-1063,Zielony Koszyk Kalisz,PL,PLN,40,SVC-INST,Installation and commissioning,1,39940.0,39940.0,Invoiced,2026-06-16
+SO-25671,2026-04-17,C10009,ST-UK-1112,Albion Fresh Scarborough,UK,GBP,10,FD-900,Fjord FD-900 display case,4,3231.0,12924.0,Invoiced,2026-08-04
+SO-25671,2026-04-17,C10009,ST-UK-1112,Albion Fresh Scarborough,UK,GBP,20,GC-S,Glacier GC-S cold room,1,11154.0,11154.0,Invoiced,2026-08-04
+SO-25671,2026-04-17,C10009,ST-UK-1112,Albion Fresh Scarborough,UK,GBP,30,PR-250,Polar PR-250 compressor rack,1,13846.0,13846.0,Invoiced,2026-08-04
+SO-25671,2026-04-17,C10009,ST-UK-1112,Albion Fresh Scarborough,UK,GBP,40,SVC-INST,Installation and commissioning,1,4550.0,4550.0,Invoiced,2026-08-04
+SO-25683,2026-04-21,C10002,ST-NO-1077,Nordhavn Stavanger Madla,NO,NOK,10,FD-1200,Fjord FD-1200 display case,5,64840.0,324200.0,Invoiced,2026-08-12
+SO-25683,2026-04-21,C10002,ST-NO-1077,Nordhavn Stavanger Madla,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,1,72470.0,72470.0,Invoiced,2026-08-12
+SO-25683,2026-04-21,C10002,ST-NO-1077,Nordhavn Stavanger Madla,NO,NOK,30,GC-M,Glacier GC-M cold room,1,209770.0,209770.0,Invoiced,2026-08-12
+SO-25683,2026-04-21,C10002,ST-NO-1077,Nordhavn Stavanger Madla,NO,NOK,40,PR-400,Polar PR-400 compressor rack,1,276510.0,276510.0,Invoiced,2026-08-12
+SO-25683,2026-04-21,C10002,ST-NO-1077,Nordhavn Stavanger Madla,NO,NOK,50,SVC-INST,Installation and commissioning,1,105950.0,105950.0,Invoiced,2026-08-12
+SO-25659,2026-04-24,C10007,ST-DE-1084,Kaufring Altötting,DE,EUR,10,FD-1200,Fjord FD-1200 display case,4,5848.0,23392.0,Invoiced,2026-07-29
+SO-25659,2026-04-24,C10007,ST-DE-1084,Kaufring Altötting,DE,EUR,20,FD-1200L,Fjord FD-1200L low-front display case,2,6536.0,13072.0,Invoiced,2026-07-29
+SO-25659,2026-04-24,C10007,ST-DE-1084,Kaufring Altötting,DE,EUR,30,GC-M,Glacier GC-M cold room,1,18920.0,18920.0,Invoiced,2026-07-29
+SO-25659,2026-04-24,C10007,ST-DE-1084,Kaufring Altötting,DE,EUR,40,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Invoiced,2026-07-29
+SO-25659,2026-04-24,C10007,ST-DE-1084,Kaufring Altötting,DE,EUR,50,SVC-INST,Installation and commissioning,1,9640.0,9640.0,Invoiced,2026-07-29
+SO-25914,2026-05-25,C10015,,Distributor warehouse,DE,EUR,10,HTR-GC-1,"Door heater, cold room",8,104.0,832.0,Invoiced,2026-05-25
+SO-25914,2026-05-25,C10015,,Distributor warehouse,DE,EUR,20,GSK-0900,Door gasket FD-900,9,18.0,162.0,Invoiced,2026-05-25
+SO-25695,2026-05-29,C10019,ST-SE-1056,Nordhavn Västerås Centrum,SE,SEK,10,FD-1200,Fjord FD-1200 display case,6,65660.0,393960.0,Invoiced,2026-08-21
+SO-25695,2026-05-29,C10019,ST-SE-1056,Nordhavn Västerås Centrum,SE,SEK,20,GC-M,Glacier GC-M cold room,1,212410.0,212410.0,Invoiced,2026-08-21
+SO-25695,2026-05-29,C10019,ST-SE-1056,Nordhavn Västerås Centrum,SE,SEK,30,PR-400,Polar PR-400 compressor rack,1,280000.0,280000.0,Invoiced,2026-08-21
+SO-25695,2026-05-29,C10019,ST-SE-1056,Nordhavn Västerås Centrum,SE,SEK,40,SVC-INST,Installation and commissioning,1,106360.0,106360.0,Invoiced,2026-08-21
+SO-25823,2026-06-02,C10015,,Distributor warehouse,DE,EUR,10,PRS-HP-10,High-pressure sensor,5,60.0,300.0,Invoiced,2026-06-02
+SO-25823,2026-06-02,C10015,,Distributor warehouse,DE,EUR,20,LED-1200,LED light bar 1200,8,76.0,608.0,Invoiced,2026-06-02
+SO-25874,2026-06-23,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,11,200.0,2200.0,Invoiced,2026-06-23
+SO-25874,2026-06-23,C10014,,Distributor warehouse,SE,SEK,20,LED-1200,LED light bar 1200,11,870.0,9570.0,Invoiced,2026-06-23
+SO-25916,2026-07-17,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,19,690.0,13110.0,Invoiced,2026-07-17
+SO-25916,2026-07-17,C10014,,Distributor warehouse,SE,SEK,20,GSK-0900,Door gasket FD-900,10,200.0,2000.0,Invoiced,2026-07-17
+SO-25739,2026-07-23,C10007,ST-DE-1007,Kaufring München,DE,EUR,10,FD-1200,Fjord FD-1200 display case,3,5848.0,17544.0,Open,2026-10-26
+SO-25739,2026-07-23,C10007,ST-DE-1007,Kaufring München,DE,EUR,20,GC-S,Glacier GC-S cold room,1,12470.0,12470.0,Open,2026-10-26
+SO-25739,2026-07-23,C10007,ST-DE-1007,Kaufring München,DE,EUR,30,PR-400,Polar PR-400 compressor rack,1,24940.0,24940.0,Open,2026-10-26
+SO-25809,2026-07-31,C10014,,Distributor warehouse,SE,SEK,10,PRS-HP-10,High-pressure sensor,19,690.0,13110.0,Invoiced,2026-07-31
+SO-25809,2026-07-31,C10014,,Distributor warehouse,SE,SEK,20,GSK-0900,Door gasket FD-900,5,200.0,1000.0,Invoiced,2026-07-31
+SO-25706,2026-08-13,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,10,FD-1200,Fjord FD-1200 display case,6,68000.0,408000.0,Open,2026-11-16
+SO-25706,2026-08-13,C10002,ST-NO-1007,Nordhavn Mega Oslo Majorstuen,NO,NOK,20,FD-1200L,Fjord FD-1200L low-front display case,2,76000.0,152000.0,Open,2026-11-16
+SO-25717,2026-09-03,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,10,FD-1200,Fjord FD-1200 display case,4,67220.0,268880.0,Open,2026-12-07
+SO-25717,2026-09-03,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,20,GC-M,Glacier GC-M cold room,1,217470.0,217470.0,Open,2026-12-07
+SO-25717,2026-09-03,C10019,ST-SE-1007,Nordhavn Stockholm Södermalm,SE,SEK,30,PR-400,Polar PR-400 compressor rack,1,286670.0,286670.0,Open,2026-12-07
+SO-25910,2026-09-24,C10014,,Distributor warehouse,SE,SEK,10,GSK-0900,Door gasket FD-900,7,200.0,1400.0,Invoiced,2026-09-24
+SO-25910,2026-09-24,C10014,,Distributor warehouse,SE,SEK,20,EVF-22,Evaporator fan motor,9,1470.0,13230.0,Invoiced,2026-09-24

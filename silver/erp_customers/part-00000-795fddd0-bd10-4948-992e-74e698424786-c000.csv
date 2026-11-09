@@ -1,0 +1,18 @@
+customer_id,legal_name,country,vat_no,parent_customer_id,customer_type,payment_terms,created_date
+C10001,Nordhavn Retail Group ASA,NO,NO428309108,,Retail chain (HQ),30 days,2018-03-12T00:00:00.000-04:00
+C10002,Nordhavn Dagligvare AS,NO,NO359781875,C10001,Retail chain,30 days,2018-03-12T00:00:00.000-04:00
+C10003,Nordhavn Sverige AB,SE,SE920130910,C10001,Retail chain,30 days,2019-01-21T00:00:00.000-05:00
+C10004,Nordhavn Danmark A/S,DK,DK887947131,,Retail chain,30 days,2020-06-02T00:00:00.000-04:00
+C10005,Nordhavn Suomi Oy,FI,FI503352743,C10001,Retail chain,30 days,2021-02-15T00:00:00.000-05:00
+C10006,Nordhavn Eesti OÜ,EE,EE178161199,,Retail chain,30 days,2022-09-01T00:00:00.000-04:00
+C10019,Nordhavn Sverige AB,SE,SE650312682,C10001,Retail chain,30 days,2024-06-03T00:00:00.000-04:00
+C10007,Kaufring Markt GmbH,DE,DE143882020,,Retail chain,30 days,2019-11-04T00:00:00.000-05:00
+C10008,Kaufring Österreich GmbH,AT,AT324130817,C10007,Retail chain,30 days,2021-04-19T00:00:00.000-04:00
+C10009,Albion Fresh Ltd,UK,UK365330947,,Retail chain,45 days,2020-02-10T00:00:00.000-05:00
+C10010,Zielony Koszyk Sp. z o.o.,PL,PL610933831,,Retail chain,30 days,2021-08-30T00:00:00.000-04:00
+C10011,Hollander Supermarkten B.V.,NL,NL337485003,,Retail chain,30 days,2020-10-12T00:00:00.000-04:00
+C10012,Vltava Potraviny a.s.,CZ,CZ777874648,,Retail chain,30 days,2022-01-17T00:00:00.000-05:00
+C10013,Marché Plus SA,FR,FR270223285,,Retail chain,60 days,2022-05-23T00:00:00.000-04:00
+C10014,Coldline Distribution AB,SE,SE215855548,,Distributor,30 days,2017-09-08T00:00:00.000-04:00
+C10015,FrostTek Service GmbH,DE,DE935074172,,Distributor,30 days,2018-07-30T00:00:00.000-04:00
+C10016,Nordhavn Marine Supply AS,NO,NO715528501,,Other,30 days,2021-03-03T00:00:00.000-05:00
