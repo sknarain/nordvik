@@ -1,4 +1,4 @@
-# In order to run this proptotype, following steps.
+# In order to run this prototype use following steps.
 # Installation
 1. Install python 3.6.9 or later
 2. Install following python libraries
