@@ -60,7 +60,9 @@
       Cleaned data is stored in the directory: nordvik/silver
       Run following python scripts to create aggregate data in nordvik/gold directory:
       python3 build_aggregates.py
-8. Run the chat agent:
+   
+# Testing
+  Run the chat agent:
       python3 nordvik_agent.py
 
       The chat interface will open in a browser window.
