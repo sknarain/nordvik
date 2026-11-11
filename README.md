@@ -79,5 +79,6 @@
 
       The chat interface will open in a browser window.  
 
-      Ask the questions related to Nordvik's sales, open opportunities, service contracts, quarterly reviews, etc..  
+      Ask the questions related to Nordvik's sales, open opportunities, service contracts,   
+      quarterly reviews, and account details etc..  
       
