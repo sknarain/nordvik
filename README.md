@@ -1,6 +1,6 @@
-# In order to run this prototype use following steps.
-# This prototype uses sample data from a fictitious company called Nordvik.
-# Installation
+# Follow these steps in order to run this prototype.  
+*The prototype uses sample data for a fictitious company called Nordvik.*
+*Installation*
 1. Install python 3.6.9 or later  
 2. Install following python libraries  
    pyspark  
