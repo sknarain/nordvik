@@ -58,11 +58,15 @@
 7. Data cleanup:
       Raw data is stored in the directory: nordvik/bronze  
       cd nordvik/solution  
+
       python3 currency_scd.py	
+
       python3 data_cleansing.py  
 
-      Cleaned data is stored in the directory: nordvik/silver  
-      Run following python scripts to create aggregate data in nordvik/gold directory:  
+      Cleaned and enriched data is stored in the directory: nordvik/silver  
+      Run following python scripts to create aggregated data in nordvik/gold directory:  
+
+
       python3 build_aggregates.py  
 
 8. Create doc embeddings and load them in PostgreSQL/pgvector  
