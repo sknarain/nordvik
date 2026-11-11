@@ -67,8 +67,12 @@
       Cleaned and enriched data is stored in the directory: nordvik/silver  
       Run following python scripts to create aggregated data in nordvik/gold directory:  
 
-
       python3 build_aggregates.py  
+
+      Run following to analyze below target margin service contracts and store data in nordvik/gold directory:  
+
+      python3 service_contract_analysis.py  
+
 
 8. Create doc embeddings and load them in PostgreSQL/pgvector  
    python3 load_docs.py  
