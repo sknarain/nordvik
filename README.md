@@ -1,4 +1,5 @@
 # In order to run this prototype use following steps.
+# This prototype uses sample data from a fictitious company called Nordvik.
 # Installation
 1. Install python 3.6.9 or later  
 2. Install following python libraries  
@@ -78,5 +79,5 @@
 
       The chat interface will open in a browser window.  
 
-      Ask the questions related Nordvik's sales, open opportunities, service contracts, quarterly reviews, etc..  
+      Ask the questions related to Nordvik's sales, open opportunities, service contracts, quarterly reviews, etc..  
       
