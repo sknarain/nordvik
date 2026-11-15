@@ -9,13 +9,15 @@
    openai  
    psycopg  
    pypdf  
-   docx  
+   python-docx  
    langchain_text_splitters  
    langchain-core  
    sentence_transformers  
-   angchain_huggingface  
+   langchain_huggingface  
    langchain_ollama  
    pandas  
+   python-donenv  
+
 3. Install ollama  
    curl -fsSL https://ollama.com/install.sh | sh  
    Visit http://localhost:11434/ to check if ollama is running  
@@ -62,11 +64,16 @@
       Raw data is stored in the directory: nordvik/bronze  
       cd nordvik/solution  
 
+      Run follwong script to create the slow changing currency dimension:  
+
       python3 currency_scd.py	
+
+      Run following script to perform data cleanup:  
 
       python3 data_cleansing.py  
 
-      Cleaned and enriched data is stored in the directory: nordvik/silver  
+      Clean and enriched data is stored in the directory: nordvik/silver  
+
       Run following python scripts to create aggregated data in nordvik/gold directory:  
 
       python3 build_aggregates.py  
@@ -88,3 +95,4 @@
       Ask the questions related to Nordvik's sales, open opportunities, service contracts,   
       quarterly reviews, and account details etc..  
       
+
