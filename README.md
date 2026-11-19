@@ -17,6 +17,7 @@
    langchain_ollama  
    pandas  
    python-donenv  
+   gradio
 
 3. Install ollama  
    curl -fsSL https://ollama.com/install.sh | sh  
